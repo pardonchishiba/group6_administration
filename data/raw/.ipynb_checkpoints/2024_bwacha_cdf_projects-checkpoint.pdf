@@ -1,0 +1,1515 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />		<title>Kabwe Municipal Council &#8211; Kabwe</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Kabwe Municipal Council &raquo; Feed" href="https://www.kabwecouncil.gov.zm/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="Kabwe Municipal Council &raquo; Comments Feed" href="https://www.kabwecouncil.gov.zm/?feed=comments-rss2" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.kabwecouncil.gov.zm\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.kabwecouncil.gov.zm/wp-includes/css/dist/block-library/style.min.css?ver=5.9' media='all' />
+<style id='wp-block-library-theme-inline-css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-code>code{font-family:Menlo,Consolas,monaco,monospace;color:#1e1e1e;padding:.8em 1em;border:1px solid #ddd;border-radius:4px}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-group:where(.has-background){padding:1.25em 2.375em}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto;opacity:.4}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #FFFFFF;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--dark-gray: #28303D;--wp--preset--color--gray: #39414D;--wp--preset--color--green: #D1E4DD;--wp--preset--color--blue: #D1DFE4;--wp--preset--color--purple: #D1D1E4;--wp--preset--color--red: #E4D1D1;--wp--preset--color--orange: #E4DAD1;--wp--preset--color--yellow: #EEEADD;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--gradient--purple-to-yellow: linear-gradient(160deg, #D1D1E4 0%, #EEEADD 100%);--wp--preset--gradient--yellow-to-purple: linear-gradient(160deg, #EEEADD 0%, #D1D1E4 100%);--wp--preset--gradient--green-to-yellow: linear-gradient(160deg, #D1E4DD 0%, #EEEADD 100%);--wp--preset--gradient--yellow-to-green: linear-gradient(160deg, #EEEADD 0%, #D1E4DD 100%);--wp--preset--gradient--red-to-yellow: linear-gradient(160deg, #E4D1D1 0%, #EEEADD 100%);--wp--preset--gradient--yellow-to-red: linear-gradient(160deg, #EEEADD 0%, #E4D1D1 100%);--wp--preset--gradient--purple-to-red: linear-gradient(160deg, #D1D1E4 0%, #E4D1D1 100%);--wp--preset--gradient--red-to-purple: linear-gradient(160deg, #E4D1D1 0%, #D1D1E4 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 18px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 24px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--extra-small: 16px;--wp--preset--font-size--normal: 20px;--wp--preset--font-size--extra-large: 40px;--wp--preset--font-size--huge: 96px;--wp--preset--font-size--gigantic: 144px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-dark-gray-color{color: var(--wp--preset--color--dark-gray) !important;}.has-gray-color{color: var(--wp--preset--color--gray) !important;}.has-green-color{color: var(--wp--preset--color--green) !important;}.has-blue-color{color: var(--wp--preset--color--blue) !important;}.has-purple-color{color: var(--wp--preset--color--purple) !important;}.has-red-color{color: var(--wp--preset--color--red) !important;}.has-orange-color{color: var(--wp--preset--color--orange) !important;}.has-yellow-color{color: var(--wp--preset--color--yellow) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-dark-gray-background-color{background-color: var(--wp--preset--color--dark-gray) !important;}.has-gray-background-color{background-color: var(--wp--preset--color--gray) !important;}.has-green-background-color{background-color: var(--wp--preset--color--green) !important;}.has-blue-background-color{background-color: var(--wp--preset--color--blue) !important;}.has-purple-background-color{background-color: var(--wp--preset--color--purple) !important;}.has-red-background-color{background-color: var(--wp--preset--color--red) !important;}.has-orange-background-color{background-color: var(--wp--preset--color--orange) !important;}.has-yellow-background-color{background-color: var(--wp--preset--color--yellow) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-dark-gray-border-color{border-color: var(--wp--preset--color--dark-gray) !important;}.has-gray-border-color{border-color: var(--wp--preset--color--gray) !important;}.has-green-border-color{border-color: var(--wp--preset--color--green) !important;}.has-blue-border-color{border-color: var(--wp--preset--color--blue) !important;}.has-purple-border-color{border-color: var(--wp--preset--color--purple) !important;}.has-red-border-color{border-color: var(--wp--preset--color--red) !important;}.has-orange-border-color{border-color: var(--wp--preset--color--orange) !important;}.has-yellow-border-color{border-color: var(--wp--preset--color--yellow) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-purple-to-yellow-gradient-background{background: var(--wp--preset--gradient--purple-to-yellow) !important;}.has-yellow-to-purple-gradient-background{background: var(--wp--preset--gradient--yellow-to-purple) !important;}.has-green-to-yellow-gradient-background{background: var(--wp--preset--gradient--green-to-yellow) !important;}.has-yellow-to-green-gradient-background{background: var(--wp--preset--gradient--yellow-to-green) !important;}.has-red-to-yellow-gradient-background{background: var(--wp--preset--gradient--red-to-yellow) !important;}.has-yellow-to-red-gradient-background{background: var(--wp--preset--gradient--yellow-to-red) !important;}.has-purple-to-red-gradient-background{background: var(--wp--preset--gradient--purple-to-red) !important;}.has-red-to-purple-gradient-background{background: var(--wp--preset--gradient--red-to-purple) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-extra-small-font-size{font-size: var(--wp--preset--font-size--extra-small) !important;}.has-normal-font-size{font-size: var(--wp--preset--font-size--normal) !important;}.has-extra-large-font-size{font-size: var(--wp--preset--font-size--extra-large) !important;}.has-huge-font-size{font-size: var(--wp--preset--font-size--huge) !important;}.has-gigantic-font-size{font-size: var(--wp--preset--font-size--gigantic) !important;}
+</style>
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://www.kabwecouncil.gov.zm/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.2.23' media='all' />
+<style id='rs-plugin-settings-inline-css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='twenty-twenty-one-style-css'  href='https://www.kabwecouncil.gov.zm/wp-content/themes/twentytwentyone/style.css?ver=1.5' media='all' />
+<style id='twenty-twenty-one-style-inline-css'>
+:root{--global--color-background: #ffffff;--global--color-primary: #000;--global--color-secondary: #000;--button--color-background: #000;--button--color-text-hover: #000;}
+</style>
+<link rel='stylesheet' id='twenty-twenty-one-print-style-css'  href='https://www.kabwecouncil.gov.zm/wp-content/themes/twentytwentyone/assets/css/print.css?ver=1.5' media='print' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://www.kabwecouncil.gov.zm/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.14.0' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://www.kabwecouncil.gov.zm/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.5.5' media='all' />
+<link rel='stylesheet' id='elementor-post-5-css'  href='https://www.kabwecouncil.gov.zm/wp-content/uploads/elementor/css/post-5.css?ver=1708951372' media='all' />
+<link rel='stylesheet' id='elementor-pro-css'  href='https://www.kabwecouncil.gov.zm/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.6.2' media='all' />
+<link rel='stylesheet' id='uael-frontend-css'  href='https://www.kabwecouncil.gov.zm/wp-content/plugins/ultimate-elementor/assets/min-css/uael-frontend.min.css?ver=1.36.2' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='https://www.kabwecouncil.gov.zm/wp-content/uploads/elementor/css/global.css?ver=1708951376' media='all' />
+<link rel='stylesheet' id='elementor-post-15-css'  href='https://www.kabwecouncil.gov.zm/wp-content/uploads/elementor/css/post-15.css?ver=1771779859' media='all' />
+<link rel='stylesheet' id='elementor-post-8-css'  href='https://www.kabwecouncil.gov.zm/wp-content/uploads/elementor/css/post-8.css?ver=1765217792' media='all' />
+<link rel='stylesheet' id='elementor-post-124-css'  href='https://www.kabwecouncil.gov.zm/wp-content/uploads/elementor/css/post-124.css?ver=1763988532' media='all' />
+<link rel='stylesheet' id='elementor-icons-ekiticons-css'  href='https://www.kabwecouncil.gov.zm/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=2.5.3' media='all' />
+<link rel='stylesheet' id='elementskit-parallax-style-css'  href='https://www.kabwecouncil.gov.zm/wp-content/plugins/elementskit/modules/parallax/assets/css/style.css?ver=2.6.2' media='all' />
+<link rel='stylesheet' id='ekit-widget-styles-css'  href='https://www.kabwecouncil.gov.zm/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=2.5.3' media='all' />
+<link rel='stylesheet' id='ekit-widget-styles-pro-css'  href='https://www.kabwecouncil.gov.zm/wp-content/plugins/elementskit/widgets/init/assets/css/widget-styles-pro.css?ver=2.6.2' media='all' />
+<link rel='stylesheet' id='ekit-responsive-css'  href='https://www.kabwecouncil.gov.zm/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=2.5.3' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLato%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=5.9' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='https://www.kabwecouncil.gov.zm/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='https://www.kabwecouncil.gov.zm/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='https://www.kabwecouncil.gov.zm/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3' media='all' />
+<script src='https://www.kabwecouncil.gov.zm/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script src='https://www.kabwecouncil.gov.zm/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script src='https://www.kabwecouncil.gov.zm/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.2.23' id='tp-tools-js'></script>
+<script src='https://www.kabwecouncil.gov.zm/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.2.23' id='revmin-js'></script>
+<script src='https://www.kabwecouncil.gov.zm/wp-content/plugins/elementskit/modules/parallax/assets/js/jarallax.js?ver=2.6.2' id='jarallax-js'></script>
+<link rel="https://api.w.org/" href="https://www.kabwecouncil.gov.zm/index.php?rest_route=/" /><link rel="alternate" type="application/json" href="https://www.kabwecouncil.gov.zm/index.php?rest_route=/wp/v2/pages/15" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.kabwecouncil.gov.zm/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.kabwecouncil.gov.zm/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.9" />
+<link rel="canonical" href="https://www.kabwecouncil.gov.zm/" />
+<link rel='shortlink' href='https://www.kabwecouncil.gov.zm/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.kabwecouncil.gov.zm/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=https%3A%2F%2Fwww.kabwecouncil.gov.zm%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.kabwecouncil.gov.zm/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=https%3A%2F%2Fwww.kabwecouncil.gov.zm%2F&#038;format=xml" />
+
+			<script type="text/javascript">
+				var elementskit_module_parallax_url = "https://www.kabwecouncil.gov.zm/wp-content/plugins/elementskit/modules/parallax/"
+			</script>
+		<style id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<meta name="generator" content="Powered by Slider Revolution 6.2.23 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://www.kabwecouncil.gov.zm/wp-content/uploads/2024/08/cropped-cropped-court-of-arms-32x32.jpeg" sizes="32x32" />
+<link rel="icon" href="https://www.kabwecouncil.gov.zm/wp-content/uploads/2024/08/cropped-cropped-court-of-arms-192x192.jpeg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.kabwecouncil.gov.zm/wp-content/uploads/2024/08/cropped-cropped-court-of-arms-180x180.jpeg" />
+<meta name="msapplication-TileImage" content="https://www.kabwecouncil.gov.zm/wp-content/uploads/2024/08/cropped-cropped-court-of-arms-270x270.jpeg" />
+<script type="text/javascript">function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {				 
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;	
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;	
+				try {								
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);		
+					if(e.layout==="fullscreen" || e.l==="fullscreen") 						
+						newh = Math.max(e.mh,window.RSIH);					
+					else{					
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];					
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,						
+							sl;					
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;					
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];									
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}															
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);					
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}				
+					if(window.rs_init_css===undefined) window.rs_init_css = document.head.appendChild(document.createElement("style"));					
+					document.getElementById(e.c).height = newh+"px";
+					window.rs_init_css.innerHTML += "#"+e.c+"_wrapper { height: "+newh+"px }";				
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}					   
+			//});
+		  };</script>
+<style id="yellow-pencil">
+/*
+	The following CSS codes are created by the YellowPencil plugin.
+	https://yellowpencil.waspthemes.com/
+*/
+.elementor-element-70838fdb .info a{color:#ffffff;}.elementor-widget-container .elementor-nav-menu--layout-horizontal .elementor-nav-menu .menu-item a{padding-top:0px;}.elementor-element-1ede1a4f .elementor-container .elementor-top-column .elementor-widget-wrap .elementor-widget-nav-menu .elementor-widget-container .elementor-nav-menu--layout-horizontal .elementor-nav-menu .menu-item a{color:#000000;font-size:14px;}.elementor-element-9c2376c .elementor-widget-text-editor .text-justify{color:#000000;}.elementor-widget-container .elementor-nav-menu--layout-horizontal .elementor-nav-menu .menu-item .sub-menu-toggle{-webkit-transform:translatex(-14px) translatey(-7px);-ms-transform:translatex(-14px) translatey(-7px);transform:translatex(-14px) translatey(-7px);display:none;}.elementor-element-e612dfc .ekit-wid-con p{text-align:justify;}.elementor-element-6bbb057b .ekit-wid-con p{text-align:justify;}
+</style></head>
+<body class="home page-template page-template-elementor_header_footer page page-id-15 custom-background wp-custom-logo wp-embed-responsive non-logged-in is-light-theme has-background-white no-js singular elementor-default elementor-template-full-width elementor-kit-5 elementor-page elementor-page-15">
+
+		<div data-elementor-type="header" data-elementor-id="8" class="elementor elementor-8 elementor-location-header" data-elementor-settings="[]">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-5d148925 elementor-section-full_width elementor-section-content-middle elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="5d148925" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;motion_fx_devices&quot;:[&quot;desktop&quot;],&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;],&quot;background_background&quot;:&quot;gradient&quot;,&quot;ekit_has_onepagescroll_dot&quot;:&quot;yes&quot;,&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-476011a5" data-id="476011a5" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-ddbfcf9" data-id="ddbfcf9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-731fa257 elementor-widget elementor-widget-image" data-id="731fa257" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.5 - 03-02-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>													<a href="#">
+							<img width="632" height="216" src="https://www.kabwecouncil.gov.zm/wp-content/uploads/2022/01/KABWE_LOGO_FIREWORLKS-removebg-preview.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://www.kabwecouncil.gov.zm/wp-content/uploads/2022/01/KABWE_LOGO_FIREWORLKS-removebg-preview.png 632w, https://www.kabwecouncil.gov.zm/wp-content/uploads/2022/01/KABWE_LOGO_FIREWORLKS-removebg-preview-300x103.png 300w" sizes="(max-width: 632px) 100vw, 632px" style="width:100%;height:34.18%;max-width:632px" />								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-579ee7b9" data-id="579ee7b9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-441079fc elementor-widget elementor-widget-ekit-nav-menu" data-id="441079fc" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="ekit-nav-menu.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con ekit_menu_responsive_tablet" data-hamburger-icon="" data-hamburger-icon-type="icon" data-responsive-breakpoint="1024"></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ba68ed8 elementor-nav-menu__align-justify elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="ba68ed8" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;,&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://www.kabwecouncil.gov.zm/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css">			<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
+				<ul id="menu-1-ba68ed8" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-15 current_page_item menu-item-17"><a href="https://www.kabwecouncil.gov.zm/" aria-current="page" class="elementor-item elementor-item-active">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-777"><a href="#" class="elementor-item elementor-item-anchor">About</a><button class="sub-menu-toggle" aria-expanded="false" onClick="twentytwentyoneExpandSubMenu(this)"><span class="icon-plus"><svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M18 11.2h-5.2V6h-1.6v5.2H6v1.6h5.2V18h1.6v-5.2H18z" fill="currentColor"/></svg></span><span class="icon-minus"><svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6 11h12v2H6z" fill="currentColor"/></svg></span><span class="screen-reader-text">Open menu</span></button>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2603"><a href="https://www.kabwecouncil.gov.zm/?page_id=2601" class="elementor-sub-item">About Us</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-833"><a href="https://www.kabwecouncil.gov.zm/?page_id=169" class="elementor-sub-item">Mandate</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-170"><a href="https://www.kabwecouncil.gov.zm/?page_id=118" class="elementor-sub-item">Who we are</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-778"><a href="https://www.kabwecouncil.gov.zm/?page_id=770" class="elementor-sub-item">Departments</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2636"><a href="https://www.kabwecouncil.gov.zm/?page_id=2634" class="elementor-sub-item">office of the the town clerk</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2639"><a href="https://www.kabwecouncil.gov.zm/?page_id=2637" class="elementor-sub-item">Dept of Human Resource and Administration</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2642"><a href="https://www.kabwecouncil.gov.zm/?page_id=2640" class="elementor-sub-item">Dept of Health</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2645"><a href="https://www.kabwecouncil.gov.zm/?page_id=2643" class="elementor-sub-item">Dept of Finance</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2648"><a href="https://www.kabwecouncil.gov.zm/?page_id=2646" class="elementor-sub-item">Dept of Engineering Services</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2651"><a href="https://www.kabwecouncil.gov.zm/?page_id=2649" class="elementor-sub-item">Dept of Health Services</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3896"><a href="https://www.kabwecouncil.gov.zm/?page_id=3894" class="elementor-sub-item">Dept Legal ( Services Unit)</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3899"><a href="https://www.kabwecouncil.gov.zm/?page_id=3897" class="elementor-sub-item">Dept Of Planning</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3902"><a href="https://www.kabwecouncil.gov.zm/?page_id=3900" class="elementor-sub-item">Dept Of Housing and Social Services</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3905"><a href="https://www.kabwecouncil.gov.zm/?page_id=3903" class="elementor-sub-item">Dept of Fisheries, Livestock And Veterinary Services</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3908"><a href="https://www.kabwecouncil.gov.zm/?page_id=3906" class="elementor-sub-item">Dept of Agriculture</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2606"><a href="https://www.kabwecouncil.gov.zm/?page_id=2604" class="elementor-sub-item">Civic Leaders</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2609"><a href="https://www.kabwecouncil.gov.zm/?page_id=2607" class="elementor-sub-item">The Mayor</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2612"><a href="https://www.kabwecouncil.gov.zm/?page_id=2610" class="elementor-sub-item">Kabwe Central</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2615"><a href="https://www.kabwecouncil.gov.zm/?page_id=2613" class="elementor-sub-item">Bwacha</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-832"><a href="https://www.kabwecouncil.gov.zm/?page_id=792" class="elementor-item">Services</a><button class="sub-menu-toggle" aria-expanded="false" onClick="twentytwentyoneExpandSubMenu(this)"><span class="icon-plus"><svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M18 11.2h-5.2V6h-1.6v5.2H6v1.6h5.2V18h1.6v-5.2H18z" fill="currentColor"/></svg></span><span class="icon-minus"><svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6 11h12v2H6z" fill="currentColor"/></svg></span><span class="screen-reader-text">Open menu</span></button>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2593"><a href="https://www.kabwecouncil.gov.zm/?page_id=2591" class="elementor-sub-item">Licenses and levies</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3355"><a href="https://www.kabwecouncil.gov.zm/?page_id=3353" class="elementor-sub-item">Waste Management</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5239"><a href="https://www.kabwecouncil.gov.zm/?page_id=5237" class="elementor-sub-item">E-GP</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-919"><a href="https://www.kabwecouncil.gov.zm/?page_id=187" class="elementor-item">News Updates</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2550"><a href="https://www.kabwecouncil.gov.zm/?page_id=2542" class="elementor-item">CDF</a><button class="sub-menu-toggle" aria-expanded="false" onClick="twentytwentyoneExpandSubMenu(this)"><span class="icon-plus"><svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M18 11.2h-5.2V6h-1.6v5.2H6v1.6h5.2V18h1.6v-5.2H18z" fill="currentColor"/></svg></span><span class="icon-minus"><svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6 11h12v2H6z" fill="currentColor"/></svg></span><span class="screen-reader-text">Open menu</span></button>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2581"><a href="https://www.kabwecouncil.gov.zm/?page_id=2579" class="elementor-sub-item">CDF GUIDLINES</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3676"><a href="https://www.kabwecouncil.gov.zm/?page_id=3674" class="elementor-sub-item">CDF branding guidelines</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2599"><a href="https://www.kabwecouncil.gov.zm/?page_id=2597" class="elementor-item">ZDSP</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-970"><a href="#" class="elementor-item elementor-item-anchor">Media</a><button class="sub-menu-toggle" aria-expanded="false" onClick="twentytwentyoneExpandSubMenu(this)"><span class="icon-plus"><svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M18 11.2h-5.2V6h-1.6v5.2H6v1.6h5.2V18h1.6v-5.2H18z" fill="currentColor"/></svg></span><span class="icon-minus"><svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6 11h12v2H6z" fill="currentColor"/></svg></span><span class="screen-reader-text">Open menu</span></button>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1702"><a href="https://www.kabwecouncil.gov.zm/?page_id=195" class="elementor-sub-item">Publications</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2618"><a href="https://www.kabwecouncil.gov.zm/?page_id=2616" class="elementor-sub-item">Public Notices</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-993"><a href="https://www.kabwecouncil.gov.zm/?page_id=971" class="elementor-sub-item">Photo Gallery</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2596"><a href="https://www.kabwecouncil.gov.zm/?page_id=2594" class="elementor-sub-item">video gallery</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1643"><a href="https://www.kabwecouncil.gov.zm/?page_id=1640" class="elementor-sub-item">Forms</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4980"><a href="https://www.kabwecouncil.gov.zm/?page_id=4976" class="elementor-sub-item">ADD A VIDEO</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-288"><a href="https://www.kabwecouncil.gov.zm/?page_id=275" class="elementor-item">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2192"><a href="https://www.kabwecouncil.gov.zm/?page_id=2173" class="elementor-item">FAQS</a></li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
+				<ul id="menu-2-ba68ed8" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-15 current_page_item menu-item-17"><a href="https://www.kabwecouncil.gov.zm/" aria-current="page" class="elementor-item elementor-item-active" tabindex="-1">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-777"><a href="#" class="elementor-item elementor-item-anchor" tabindex="-1">About</a><button class="sub-menu-toggle" aria-expanded="false" onClick="twentytwentyoneExpandSubMenu(this)"><span class="icon-plus"><svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M18 11.2h-5.2V6h-1.6v5.2H6v1.6h5.2V18h1.6v-5.2H18z" fill="currentColor"/></svg></span><span class="icon-minus"><svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6 11h12v2H6z" fill="currentColor"/></svg></span><span class="screen-reader-text">Open menu</span></button>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2603"><a href="https://www.kabwecouncil.gov.zm/?page_id=2601" class="elementor-sub-item" tabindex="-1">About Us</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-833"><a href="https://www.kabwecouncil.gov.zm/?page_id=169" class="elementor-sub-item" tabindex="-1">Mandate</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-170"><a href="https://www.kabwecouncil.gov.zm/?page_id=118" class="elementor-sub-item" tabindex="-1">Who we are</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-778"><a href="https://www.kabwecouncil.gov.zm/?page_id=770" class="elementor-sub-item" tabindex="-1">Departments</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2636"><a href="https://www.kabwecouncil.gov.zm/?page_id=2634" class="elementor-sub-item" tabindex="-1">office of the the town clerk</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2639"><a href="https://www.kabwecouncil.gov.zm/?page_id=2637" class="elementor-sub-item" tabindex="-1">Dept of Human Resource and Administration</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2642"><a href="https://www.kabwecouncil.gov.zm/?page_id=2640" class="elementor-sub-item" tabindex="-1">Dept of Health</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2645"><a href="https://www.kabwecouncil.gov.zm/?page_id=2643" class="elementor-sub-item" tabindex="-1">Dept of Finance</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2648"><a href="https://www.kabwecouncil.gov.zm/?page_id=2646" class="elementor-sub-item" tabindex="-1">Dept of Engineering Services</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2651"><a href="https://www.kabwecouncil.gov.zm/?page_id=2649" class="elementor-sub-item" tabindex="-1">Dept of Health Services</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3896"><a href="https://www.kabwecouncil.gov.zm/?page_id=3894" class="elementor-sub-item" tabindex="-1">Dept Legal ( Services Unit)</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3899"><a href="https://www.kabwecouncil.gov.zm/?page_id=3897" class="elementor-sub-item" tabindex="-1">Dept Of Planning</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3902"><a href="https://www.kabwecouncil.gov.zm/?page_id=3900" class="elementor-sub-item" tabindex="-1">Dept Of Housing and Social Services</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3905"><a href="https://www.kabwecouncil.gov.zm/?page_id=3903" class="elementor-sub-item" tabindex="-1">Dept of Fisheries, Livestock And Veterinary Services</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3908"><a href="https://www.kabwecouncil.gov.zm/?page_id=3906" class="elementor-sub-item" tabindex="-1">Dept of Agriculture</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2606"><a href="https://www.kabwecouncil.gov.zm/?page_id=2604" class="elementor-sub-item" tabindex="-1">Civic Leaders</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2609"><a href="https://www.kabwecouncil.gov.zm/?page_id=2607" class="elementor-sub-item" tabindex="-1">The Mayor</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2612"><a href="https://www.kabwecouncil.gov.zm/?page_id=2610" class="elementor-sub-item" tabindex="-1">Kabwe Central</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2615"><a href="https://www.kabwecouncil.gov.zm/?page_id=2613" class="elementor-sub-item" tabindex="-1">Bwacha</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-832"><a href="https://www.kabwecouncil.gov.zm/?page_id=792" class="elementor-item" tabindex="-1">Services</a><button class="sub-menu-toggle" aria-expanded="false" onClick="twentytwentyoneExpandSubMenu(this)"><span class="icon-plus"><svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M18 11.2h-5.2V6h-1.6v5.2H6v1.6h5.2V18h1.6v-5.2H18z" fill="currentColor"/></svg></span><span class="icon-minus"><svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6 11h12v2H6z" fill="currentColor"/></svg></span><span class="screen-reader-text">Open menu</span></button>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2593"><a href="https://www.kabwecouncil.gov.zm/?page_id=2591" class="elementor-sub-item" tabindex="-1">Licenses and levies</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3355"><a href="https://www.kabwecouncil.gov.zm/?page_id=3353" class="elementor-sub-item" tabindex="-1">Waste Management</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5239"><a href="https://www.kabwecouncil.gov.zm/?page_id=5237" class="elementor-sub-item" tabindex="-1">E-GP</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-919"><a href="https://www.kabwecouncil.gov.zm/?page_id=187" class="elementor-item" tabindex="-1">News Updates</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2550"><a href="https://www.kabwecouncil.gov.zm/?page_id=2542" class="elementor-item" tabindex="-1">CDF</a><button class="sub-menu-toggle" aria-expanded="false" onClick="twentytwentyoneExpandSubMenu(this)"><span class="icon-plus"><svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M18 11.2h-5.2V6h-1.6v5.2H6v1.6h5.2V18h1.6v-5.2H18z" fill="currentColor"/></svg></span><span class="icon-minus"><svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6 11h12v2H6z" fill="currentColor"/></svg></span><span class="screen-reader-text">Open menu</span></button>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2581"><a href="https://www.kabwecouncil.gov.zm/?page_id=2579" class="elementor-sub-item" tabindex="-1">CDF GUIDLINES</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3676"><a href="https://www.kabwecouncil.gov.zm/?page_id=3674" class="elementor-sub-item" tabindex="-1">CDF branding guidelines</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2599"><a href="https://www.kabwecouncil.gov.zm/?page_id=2597" class="elementor-item" tabindex="-1">ZDSP</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-970"><a href="#" class="elementor-item elementor-item-anchor" tabindex="-1">Media</a><button class="sub-menu-toggle" aria-expanded="false" onClick="twentytwentyoneExpandSubMenu(this)"><span class="icon-plus"><svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M18 11.2h-5.2V6h-1.6v5.2H6v1.6h5.2V18h1.6v-5.2H18z" fill="currentColor"/></svg></span><span class="icon-minus"><svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6 11h12v2H6z" fill="currentColor"/></svg></span><span class="screen-reader-text">Open menu</span></button>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1702"><a href="https://www.kabwecouncil.gov.zm/?page_id=195" class="elementor-sub-item" tabindex="-1">Publications</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2618"><a href="https://www.kabwecouncil.gov.zm/?page_id=2616" class="elementor-sub-item" tabindex="-1">Public Notices</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-993"><a href="https://www.kabwecouncil.gov.zm/?page_id=971" class="elementor-sub-item" tabindex="-1">Photo Gallery</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2596"><a href="https://www.kabwecouncil.gov.zm/?page_id=2594" class="elementor-sub-item" tabindex="-1">video gallery</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1643"><a href="https://www.kabwecouncil.gov.zm/?page_id=1640" class="elementor-sub-item" tabindex="-1">Forms</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4980"><a href="https://www.kabwecouncil.gov.zm/?page_id=4976" class="elementor-sub-item" tabindex="-1">ADD A VIDEO</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-288"><a href="https://www.kabwecouncil.gov.zm/?page_id=275" class="elementor-item" tabindex="-1">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2192"><a href="https://www.kabwecouncil.gov.zm/?page_id=2173" class="elementor-item" tabindex="-1">FAQS</a></li>
+</ul>			</nav>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-8bca593" data-id="8bca593" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-025ef5c elementor-search-form--skin-classic elementor-search-form--button-type-icon elementor-widget elementor-widget-search-form" data-id="025ef5c" data-element_type="widget" data-settings="{&quot;skin&quot;:&quot;classic&quot;,&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="search-form.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://www.kabwecouncil.gov.zm/wp-content/plugins/elementor-pro/assets/css/widget-theme-elements.min.css">		<form class="elementor-search-form" role="search" action="https://www.kabwecouncil.gov.zm" method="get">
+									<div class="elementor-search-form__container">
+								<input placeholder="Search..." class="elementor-search-form__input" type="search" name="s" title="Search" value="">
+													<button class="elementor-search-form__submit" type="submit" title="Search" aria-label="Search">
+													<i aria-hidden="true" class="fas fa-search"></i>							<span class="elementor-screen-only">Search</span>
+											</button>
+											</div>
+		</form>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+				<div data-elementor-type="wp-page" data-elementor-id="15" class="elementor elementor-15" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-60d6540 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="60d6540" data-element_type="section" data-settings="{&quot;ekit_has_onepagescroll_dot&quot;:&quot;yes&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-ae69c70" data-id="ae69c70" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-d0cc34b elementor-icon-list--layout-inline e-transform elementor-align-center elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="d0cc34b" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;,&quot;_transform_rotateZ_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.5 - 03-02-2022 */
+.elementor-widget.elementor-icon-list--layout-inline .elementor-widget-container{overflow:hidden}.elementor-widget .elementor-icon-list-items.elementor-inline-items{margin-right:-8px;margin-left:-8px}.elementor-widget .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item{margin-right:8px;margin-left:8px}.elementor-widget .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{width:auto;left:auto;right:auto;position:relative;height:100%;border-top:0;border-bottom:0;border-right:0;border-left-width:1px;border-style:solid;right:-8px}.elementor-widget .elementor-icon-list-items{list-style-type:none;margin:0;padding:0}.elementor-widget .elementor-icon-list-item{margin:0;padding:0;position:relative}.elementor-widget .elementor-icon-list-item:after{position:absolute;bottom:0;width:100%}.elementor-widget .elementor-icon-list-item,.elementor-widget .elementor-icon-list-item a{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;font-size:inherit}.elementor-widget .elementor-icon-list-icon+.elementor-icon-list-text{-ms-flex-item-align:center;align-self:center;padding-left:5px}.elementor-widget .elementor-icon-list-icon{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget .elementor-icon-list-icon svg{width:var(--e-icon-list-icon-size,1em);height:var(--e-icon-list-icon-size,1em)}.elementor-widget .elementor-icon-list-icon i{width:1.25em;font-size:var(--e-icon-list-icon-size)}.elementor-widget.elementor-widget-icon-list .elementor-icon-list-icon{text-align:var(--e-icon-list-icon-align)}.elementor-widget.elementor-widget-icon-list .elementor-icon-list-icon svg{margin:var(--e-icon-list-icon-margin,0 calc(var(--e-icon-list-icon-size, 1em) * .25) 0 0)}.elementor-widget.elementor-list-item-link-full_width a{width:100%}.elementor-widget.elementor-align-center .elementor-icon-list-item,.elementor-widget.elementor-align-center .elementor-icon-list-item a{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-widget.elementor-align-center .elementor-icon-list-item:after{margin:auto}.elementor-widget.elementor-align-center .elementor-inline-items{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-widget.elementor-align-left .elementor-icon-list-item,.elementor-widget.elementor-align-left .elementor-icon-list-item a{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start;text-align:left}.elementor-widget.elementor-align-left .elementor-inline-items{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor-widget.elementor-align-right .elementor-icon-list-item,.elementor-widget.elementor-align-right .elementor-icon-list-item a{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end;text-align:right}.elementor-widget.elementor-align-right .elementor-icon-list-items{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor-widget:not(.elementor-align-right) .elementor-icon-list-item:after{left:0}.elementor-widget:not(.elementor-align-left) .elementor-icon-list-item:after{right:0}@media (max-width:1024px){.elementor-widget.elementor-tablet-align-center .elementor-icon-list-item,.elementor-widget.elementor-tablet-align-center .elementor-icon-list-item a,.elementor-widget.elementor-tablet-align-center .elementor-icon-list-items{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-widget.elementor-tablet-align-center .elementor-icon-list-item:after{margin:auto}.elementor-widget.elementor-tablet-align-left .elementor-icon-list-items{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor-widget.elementor-tablet-align-left .elementor-icon-list-item,.elementor-widget.elementor-tablet-align-left .elementor-icon-list-item a{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start;text-align:left}.elementor-widget.elementor-tablet-align-right .elementor-icon-list-items{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor-widget.elementor-tablet-align-right .elementor-icon-list-item,.elementor-widget.elementor-tablet-align-right .elementor-icon-list-item a{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end;text-align:right}.elementor-widget:not(.elementor-tablet-align-right) .elementor-icon-list-item:after{left:0}.elementor-widget:not(.elementor-tablet-align-left) .elementor-icon-list-item:after{right:0}}@media (max-width:767px){.elementor-widget.elementor-mobile-align-center .elementor-icon-list-item,.elementor-widget.elementor-mobile-align-center .elementor-icon-list-item a,.elementor-widget.elementor-mobile-align-center .elementor-icon-list-items{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-widget.elementor-mobile-align-center .elementor-icon-list-item:after{margin:auto}.elementor-widget.elementor-mobile-align-left .elementor-icon-list-items{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor-widget.elementor-mobile-align-left .elementor-icon-list-item,.elementor-widget.elementor-mobile-align-left .elementor-icon-list-item a{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start;text-align:left}.elementor-widget.elementor-mobile-align-right .elementor-icon-list-items{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor-widget.elementor-mobile-align-right .elementor-icon-list-item,.elementor-widget.elementor-mobile-align-right .elementor-icon-list-item a{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end;text-align:right}.elementor-widget:not(.elementor-mobile-align-right) .elementor-icon-list-item:after{left:0}.elementor-widget:not(.elementor-mobile-align-left) .elementor-icon-list-item:after{right:0}}</style>		<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://www.google.com/maps/place/Kabwe+Municipal+Council/@-14.4439901,28.443912,17z/data=!4m14!1m7!3m6!1s0x196abadc11310b07:0x991601a15cfb41cc!2sKabwe+Municipal+Council!8m2!3d-14.4439901!4d28.4464869!16s%2Fg%2F11bzrj46pw!3m5!1s0x196abadc11310b07:0x991601a15cfb41cc!8m2!3d-14.4439901!4d28.4464869!16s%2Fg%2F11bzrj46pw?entry=ttu&#038;g_ep=EgoyMDI1MDkxNi4wIKXMDSoASAFQAw%3D%3D">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-map-pin"></i>						</span>
+										<span class="elementor-icon-list-text">Freedom way</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://www.kabwecouncil.gov.zm/">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="icon icon-email1"></i>						</span>
+										<span class="elementor-icon-list-text">kabwecouncil.gov.zm</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="icon icon-clock2"></i>						</span>
+										<span class="elementor-icon-list-text">Mon - Fri 08:00 - 17:00</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-f6d5e47" data-id="f6d5e47" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-d906a18 elementor-icon-list--layout-inline elementor-align-center elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="d906a18" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item elementor-inline-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="icon icon-facebook-2"></i>						</span>
+										<span class="elementor-icon-list-text"></span>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fab fa-youtube"></i>						</span>
+										<span class="elementor-icon-list-text"></span>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fab fa-whatsapp"></i>						</span>
+										<span class="elementor-icon-list-text"></span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1e4cd6a elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1e4cd6a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;ekit_has_onepagescroll_dot&quot;:&quot;yes&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-13f8d3f" data-id="13f8d3f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-d17bc7f elementor-widget elementor-widget-text-editor" data-id="d17bc7f" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.5 - 03-02-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<marquee>PAYING PROPERTY RATES  IS LAW .PAY YOUR RATES NOW FOR IMPROVED SEREVICE DELIVERY .TOGETHER WE CAN TRANSFORM KABWE</marquee>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-27fe0a9 elementor-section-height-min-height elementor-section-full_width elementor-section-height-default elementor-section-items-middle" data-id="27fe0a9" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;ekit_has_onepagescroll_dot&quot;:&quot;yes&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9917144" data-id="9917144" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-9f8127c elementor-widget elementor-widget-slider_revolution" data-id="9f8127c" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="slider_revolution.default">
+				<div class="elementor-widget-container">
+			
+		<div class="wp-block-themepunch-revslider">
+			<!-- START Home REVOLUTION SLIDER 6.2.23 --><p class="rs-p-wp-fix"></p>
+			<rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery" style="background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
+				<rs-module id="rev_slider_1_1" style="" data-version="6.2.23">
+					<rs-slides>
+						<rs-slide data-key="rs-29" data-title="Slide" data-thumb="//www.kabwecouncil.gov.zm/wp-content/uploads/2025/12/IMG_5797-1-scaled-100x50.jpg" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+							<img loading="lazy" src="//www.kabwecouncil.gov.zm/wp-content/uploads/2025/12/IMG_5797-1-scaled.jpg" title="IMG_5797 (1)" width="2560" height="1920" data-panzoom="d:20000ms;ss:100%;se:100;os:0/300px;" class="rev-slidebg" data-no-retina>
+<!--
+							--><rs-layer
+								id="slider-1-slide-29-layer-0" 
+								data-type="text"
+								data-tsh="c:rgba(0,0,0,0.75);v:10px,11px,5px,3px;b:10px,11px,5px,3px;"
+								data-rsp_ch="on"
+								data-xy="xo:67px,77px,41px,25px;yo:-7px,-8px,-4px,-2px;"
+								data-text="w:normal;s:55,63,34,20;l:89,103,55,33;ls:-4,-4,-2,-1;fw:800;"
+								data-dim="w:726px,843px,455px,280px;minh:0,none,none,none;"
+								data-frame_0="o:1;"
+								data-frame_0_chars="y:-100%;o:0;rZ:35deg;"
+								data-frame_0_mask="u:t;"
+								data-frame_1="sp:1200;"
+								data-frame_1_chars="e:power4.inOut;d:10;rZ:0deg;"
+								data-frame_1_mask="u:t;"
+								data-frame_999="o:1;st:w;sp:1750;"
+								data-frame_999_chars="e:power4.inOut;d:10;y:0px;o:0;rX:-90deg;oZ:-50;"
+								style="z-index:5;font-family:Poppins;"
+							>KABWE  MUNICIPAL  COUNCIL 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-1-slide-29-layer-16" 
+								data-type="text"
+								data-color="#fff"
+								data-bsh="c:rgba(0,0,0,0.15);h:5px,5px,2px,1px;v:5px,5px,2px,1px;b:10px,11px,5px,3px;"
+								data-tsh="c:rgba(0,0,0,0.75);v:10px,11px,5px,3px;b:10px,11px,5px,3px;"
+								data-rsp_ch="on"
+								data-xy="xo:58px,67px,36px,22px;yo:175px,203px,109px,67px;"
+								data-text="w:normal;s:45,52,28,17;l:90,104,56,34;ls:-4,-4,-2,-1;fw:800;"
+								data-dim="minh:0px,none,none,none;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:6;background-color:rgba(124,124,124,0.48);font-family:Poppins;"
+							>About Local Government 
+							</rs-layer><!--
+
+							--><a
+								id="slider-1-slide-29-layer-18" 
+								class="rs-layer rev-btn"
+								href="https://www.mlgrd.gov.zm/" target="_self" rel="nofollow"
+								data-type="button"
+								data-rsp_ch="on"
+								data-xy="xo:65px,75px,40px,24px;yo:276px,320px,172px,106px;"
+								data-text="w:normal;s:17,19,10,6;l:40,46,24,14;fw:500;"
+								data-dim="minh:0px,none,none,none;"
+								data-padding="r:25,29,16,10;l:25,29,16,10;"
+								data-border="bor:25px,25px,25px,25px;"
+								data-frame_999="o:0;st:w;"
+								data-frame_hover="c:#fff;bgc:#007aff;bor:25px,25px,25px,25px;bri:120%;"
+								style="z-index:7;background-color:#007aff;font-family:Poppins;"
+							>Click Here 
+							</a><!--
+-->						</rs-slide>
+						<rs-slide data-key="rs-61" data-title="Slide" data-thumb="//www.kabwecouncil.gov.zm/wp-content/uploads/2025/12/bayer-seed-100x50.jpg" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+							<img loading="lazy" src="//www.kabwecouncil.gov.zm/wp-content/uploads/2025/12/bayer-seed.jpg" title="bayer seed" width="1920" height="1078" class="rev-slidebg" data-no-retina>
+<!--
+							--><a
+								id="slider-1-slide-61-layer-20" 
+								class="rs-layer rev-btn"
+								href="https://www.bayer.com/media/en-us/bayer-opens-maize-seed-facility-in-zambia-to-support-food-security-for-about-30-million-people/" target="_self" rel="nofollow"
+								data-type="button"
+								data-rsp_ch="on"
+								data-xy="x:c;xo:-506px,-588px,-317px,-195px;y:m;yo:-55px,-63px,-34px,-20px;"
+								data-text="w:normal;s:17,19,10,6;l:40,46,24,14;fw:500;"
+								data-dim="minh:0px,none,none,none;"
+								data-padding="r:20,23,12,7;l:20,23,12,7;"
+								data-border="bor:25px,25px,25px,25px;"
+								data-frame_999="o:0;st:w;"
+								data-frame_hover="c:#000;bgc:#fff;bor:25px,25px,25px,25px;sp:200;e:power1.inOut;"
+								style="z-index:5;background-color:#007aff;font-family:Poppins;"
+							>Click Here 
+							</a><!--
+
+							--><rs-layer
+								id="slider-1-slide-61-layer-21" 
+								data-type="text"
+								data-color="#fff"
+								data-bsh="c:rgba(0,0,0,0.5);"
+								data-tsh="c:rgba(0,0,0,0.75);v:10px,11px,5px,3px;b:10px,11px,5px,3px;"
+								data-rsp_ch="on"
+								data-xy="xo:46px,53px,28px,17px;yo:93px,108px,58px,35px;"
+								data-text="w:normal;s:55,63,34,20;l:90,104,56,34;ls:-4,-4,-2,-1;fw:800;"
+								data-dim="minh:0px,none,none,none;"
+								data-frame_0="o:1;"
+								data-frame_0_chars="o:0;rX:90deg;oZ:-50;"
+								data-frame_1="sp:1750;"
+								data-frame_1_chars="e:power4.inOut;d:10;oZ:-50;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:6;font-family:Poppins;"
+							> Itaba Maize Seed Facility In Zambia 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-1-slide-61-layer-23" 
+								data-type="text"
+								data-color="#fff"
+								data-bsh="c:rgba(0,0,0,0.25);v:10px,11px,5px,3px;b:10px,11px,5px,3px;"
+								data-tsh="c:rgba(0,0,0,0.45);h:15px,17px,9px,5px;v:15px,17px,9px,5px;b:20px,23px,12px,7px;"
+								data-rsp_ch="on"
+								data-xy="xo:45px,52px,28px,17px;yo:158px,183px,98px,60px;"
+								data-text="w:normal;s:55,63,34,20;l:90,104,56,34;ls:-4,-4,-2,-1;fw:800;"
+								data-dim="minh:0px,none,none,none;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:7;background-color:rgba(255,255,255,0.24);font-family:Poppins;"
+							>Beyer seed 
+							</rs-layer><!--
+-->						</rs-slide>
+						<rs-slide data-key="rs-43" data-title="Slide" data-thumb="//www.kabwecouncil.gov.zm/wp-content/uploads/2025/01/WhatsApp-Image-2025-01-16-at-9.26.30-AM-100x50.jpeg" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+							<img loading="lazy" src="//www.kabwecouncil.gov.zm/wp-content/uploads/2025/01/WhatsApp-Image-2025-01-16-at-9.26.30-AM.jpeg" title="WhatsApp Image 2025-01-16 at 9.26.30 AM" width="2560" height="1927" data-panzoom="d:20000ms;ss:150%;se:100;os:0/300px;" class="rev-slidebg" data-no-retina>
+<!--
+							--><rs-layer
+								id="slider-1-slide-43-layer-4" 
+								data-type="text"
+								data-color="#fff"
+								data-tsh="c:rgba(0,0,0,0.75);v:10px,11px,5px,3px;b:10px,11px,5px,3px;"
+								data-rsp_ch="on"
+								data-xy="xo:29px,33px,17px,10px;yo:31px,36px,19px,11px;"
+								data-text="w:normal;s:55,63,34,20;l:90,104,56,34;ls:-4,-4,-2,-1;fw:800;"
+								data-dim="minh:0px,none,none,none;"
+								data-frame_0="o:1;"
+								data-frame_0_chars="y:-100%;o:0;rZ:35deg;"
+								data-frame_0_mask="u:t;"
+								data-frame_1="sp:1200;"
+								data-frame_1_chars="e:power4.inOut;d:10;rZ:0deg;"
+								data-frame_1_mask="u:t;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:5;font-family:Poppins;"
+							>POTHOLE PATCHING BUNTUNGWA ROAD 
+							</rs-layer><!--
+-->						</rs-slide>
+						<rs-slide data-key="rs-44" data-title="Slide" data-thumb="//www.kabwecouncil.gov.zm/wp-content/uploads/2025/01/WhatsApp-Image-2025-01-16-at-9.24.05-AM-100x50.jpeg" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+							<img loading="lazy" src="//www.kabwecouncil.gov.zm/wp-content/uploads/2025/01/WhatsApp-Image-2025-01-16-at-9.24.05-AM.jpeg" title="WhatsApp Image 2025-01-16 at 9.24.05 AM" width="2560" height="1927" data-panzoom="d:2000ms;ss:150%;se:100;os:0/300px;" class="rev-slidebg" data-no-retina>
+<!--
+							--><rs-layer
+								id="slider-1-slide-44-layer-5" 
+								data-type="text"
+								data-color="#fff"
+								data-tsh="c:rgba(0,0,0,0.75);v:10px,11px,5px,3px;b:10px,11px,5px,3px;"
+								data-rsp_ch="on"
+								data-xy="xo:19px,22px,11px,6px;yo:14px,16px,8px,4px;"
+								data-text="w:normal;s:55,63,34,20;l:90,104,56,34;ls:-4,-4,-2,-1;fw:800;"
+								data-dim="minh:0px,none,none,none;"
+								data-frame_0="o:1;"
+								data-frame_0_chars="y:-100%;o:0;rZ:35deg;"
+								data-frame_0_mask="u:t;"
+								data-frame_1="sp:1200;"
+								data-frame_1_chars="e:power4.inOut;d:10;rZ:0deg;"
+								data-frame_1_mask="u:t;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:5;font-family:Poppins;"
+							>R0AD WORKS IN MUWOWO EAST  
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-1-slide-44-layer-10" 
+								data-type="image"
+								data-rsp_ch="on"
+								data-xy="xo:880px,1022px,551px,339px;yo:-14px,-16px,-8px,-4px;"
+								data-text="w:normal;s:20,23,12,7;l:0,29,15,9;"
+								data-dim="w:297px,345px,186px,114px;h:142px,165px,89px,54px;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:6;"
+							><img loading="lazy" src="//www.kabwecouncil.gov.zm/wp-content/uploads/2025/09/Webiste-Play-Field-Template.png" width="2047" height="977" data-no-retina> 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-1-slide-44-layer-22" 
+								data-type="text"
+								data-color="#fff"
+								data-tsh="c:rgba(0,0,0,0.75);v:10px,11px,5px,3px;b:10px,11px,5px,3px;"
+								data-rsp_ch="on"
+								data-xy="xo:24px,27px,14px,8px;yo:123px,142px,76px,46px;"
+								data-text="w:normal;s:45,52,28,17;l:90,104,56,34;ls:-4,-4,-2,-1;fw:800;"
+								data-dim="w:456px,529px,285px,175px;minh:0px,none,none,none;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:7;background-color:rgba(239,239,239,0);font-family:Poppins;"
+							>Community Projects  <br />
+  
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-1-slide-44-layer-24" 
+								data-type="textshadow"
+								data-rsp_ch="on"
+								data-xy="xo:50px,58px,31px,19px;yo:144px,167px,90px,55px;"
+								data-text="w:normal;s:20,23,12,7;l:0,29,15,9;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:8;font-family:Roboto;"
+							> 
+							</rs-layer><!--
+
+							--><a
+								id="slider-1-slide-44-layer-28" 
+								class="rs-layer rev-btn"
+								href="https://www.kabwecouncil.gov.zm/?page_id=2542" target="_self"
+								data-type="button"
+								data-color="#000000"
+								data-rsp_ch="on"
+								data-xy="xo:27px,31px,16px,9px;yo:217px,252px,136px,83px;"
+								data-text="w:normal;s:20,23,12,7;l:46,53,28,17;fw:500;"
+								data-dim="minh:0,none,none,none;"
+								data-padding="r:29,34,18,11;l:29,34,18,11;"
+								data-border="bor:25px,25px,25px,25px;"
+								data-frame_999="o:0;st:w;"
+								data-frame_hover="c:#fff;bgc:#00bf63;bor:25px,25px,25px,25px;bri:120%;"
+								style="z-index:10;background-color:#007aff;font-family:Poppins;"
+							>Click Here 
+							</a><!--
+-->						</rs-slide>
+						<rs-slide data-key="rs-54" data-title="Slide" data-thumb="//www.kabwecouncil.gov.zm/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-13-at-8.22.35-AM-100x50.jpeg" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+							<img loading="lazy" src="//www.kabwecouncil.gov.zm/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-13-at-8.22.35-AM.jpeg" title="WhatsApp Image 2025-11-13 at 8.22.35 AM" width="2560" height="1920" data-panzoom="d:10000;ss:100;se:100;os:0/300px;" class="rev-slidebg" data-no-retina>
+<!--
+							--><rs-layer
+								id="slider-1-slide-54-layer-7" 
+								data-type="text"
+								data-tsh="c:rgba(0,0,0,0.75);v:10px,11px,5px,3px;b:10px,11px,5px,3px;"
+								data-rsp_ch="on"
+								data-xy="xo:70px,81px,43px,26px;yo:-10px,-11px,-5px,-3px;"
+								data-text="w:normal;s:55,63,34,20;l:90,104,56,34;ls:-4,-4,-2,-1;fw:800;"
+								data-dim="w:570px,662px,357px,220px;minh:0px,none,none,none;"
+								data-frame_0="o:1;"
+								data-frame_0_chars="y:-100%;o:0;rZ:35deg;"
+								data-frame_0_mask="u:t;"
+								data-frame_1="sp:1200;"
+								data-frame_1_chars="e:power4.inOut;d:10;rZ:0deg;"
+								data-frame_1_mask="u:t;"
+								data-frame_999="o:1;st:w;sp:1200;"
+								data-frame_999_chars="e:power4.inOut;d:10;x:-105%;o:0;rZ:-90deg;"
+								data-frame_999_mask="u:t;"
+								style="z-index:5;font-family:Poppins;"
+							>FULL COUNCIL  MEETING  
+							</rs-layer><!--
+
+							--><a
+								id="slider-1-slide-54-layer-29" 
+								class="rs-layer rev-btn"
+								href="https://www.kabwecouncil.gov.zm/?page_id=2607" target="_self" rel="nofollow"
+								data-type="button"
+								data-rsp_ch="on"
+								data-xy="xo:607px,705px,380px,234px;yo:153px,177px,95px,58px;"
+								data-text="w:normal;s:17,19,10,6;l:40,46,24,14;fw:500;"
+								data-dim="minh:0px,none,none,none;"
+								data-padding="r:25,29,16,10;l:25,29,16,10;"
+								data-border="bor:25px,25px,25px,25px;"
+								data-frame_999="o:0;st:w;"
+								data-frame_hover="bgc:#007aff;bor:25px,25px,25px,25px;bri:120%;"
+								style="z-index:6;background-color:#007aff;font-family:Poppins;"
+							>The Mayor 
+							</a><!--
+
+							--><a
+								id="slider-1-slide-54-layer-30" 
+								class="rs-layer rev-btn"
+								href="https://www.kabwecouncil.gov.zm/?page_id=2610" target="_self" rel="nofollow"
+								data-type="button"
+								data-rsp_ch="on"
+								data-xy="xo:499px,579px,312px,192px;yo:220px,255px,137px,84px;"
+								data-text="w:normal;s:17,19,10,6;l:40,46,24,14;fw:500;"
+								data-dim="minh:0px,none,none,none;"
+								data-padding="r:25,29,16,10;l:25,29,16,10;"
+								data-border="bor:25px,25px,25px,25px;"
+								data-frame_999="o:0;st:w;"
+								data-frame_hover="bgc:#007aff;bor:25px,25px,25px,25px;bri:120%;"
+								style="z-index:7;background-color:#007aff;font-family:Poppins;"
+							>Kabwe Central 
+							</a><!--
+
+							--><a
+								id="slider-1-slide-54-layer-32" 
+								class="rs-layer rev-btn"
+								href="https://www.kabwecouncil.gov.zm/?page_id=2610" target="_self" rel="nofollow"
+								data-type="button"
+								data-rsp_ch="on"
+								data-xy="xo:691px,803px,433px,267px;yo:221px,256px,138px,85px;"
+								data-text="w:normal;s:17,19,10,6;l:40,46,24,14;fw:500;"
+								data-dim="minh:0px,none,none,none;"
+								data-padding="r:25,29,16,10;l:25,29,16,10;"
+								data-border="bor:25px,25px,25px,25px;"
+								data-frame_999="o:0;st:w;"
+								data-frame_hover="bgc:#007aff;bor:25px,25px,25px,25px;bri:120%;"
+								style="z-index:8;background-color:#007aff;font-family:Poppins;"
+							>Bwacha 
+							</a><!--
+
+							--><rs-layer
+								id="slider-1-slide-54-layer-34" 
+								data-type="text"
+								data-color="#fff"
+								data-bsh="c:rgba(0,0,0,0.25);h:5px,5px,2px,1px;b:10px,11px,5px,3px;"
+								data-tsh="c:rgba(0,0,0,0.75);h:5px,5px,2px,1px;b:10px,11px,5px,3px;"
+								data-rsp_ch="on"
+								data-xy="xo:75px,87px,46px,28px;yo:83px,96px,51px,31px;"
+								data-text="w:normal;s:55,63,34,20;l:55,63,34,20;ls:-4,-4,-2,-1;fw:800;"
+								data-dim="w:405px,470px,253px,156px;minh:0px,none,none,none;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:10;background-color:rgba(94,94,94,0.73);font-family:Poppins;"
+							>Know your  civic Leaders 
+							</rs-layer><!--
+-->						</rs-slide>
+					</rs-slides>
+				</rs-module>
+				<script type="text/javascript">
+					setREVStartSize({c: 'rev_slider_1_1',rl:[1240,1024,778,480],el:[700,768,960,330],gw:[1240,1441,778,480],gh:[700,768,960,330],type:'standard',justify:'',layout:'fullwidth',mh:"0"});
+					var	revapi1,
+						tpj;
+					function revinit_revslider11() {
+					jQuery(function() {
+						tpj = jQuery;
+						revapi1 = tpj("#rev_slider_1_1");
+						if(revapi1==undefined || revapi1.revolution == undefined){
+							revslider_showDoubleJqueryError("rev_slider_1_1");
+						}else{
+							revapi1.revolution({
+								sliderLayout:"fullwidth",
+								visibilityLevels:"1240,1024,778,480",
+								gridwidth:"1240,1441,778,480",
+								gridheight:"700,768,960,330",
+								spinner:"spinner7",
+								perspective:600,
+								perspectiveType:"local",
+								spinnerclr:"transparent",
+								editorheight:"700,768,960,330",
+								responsiveLevels:"1240,1024,778,480",
+								progressBar: {
+									color:"rgba(0,0,0,0.15)",
+									vertical:"top",
+									size:5,
+									x:0,
+									y:0
+								},
+								navigation: {
+									mouseScrollNavigation:false,
+									arrows: {
+										enable:true,
+										style:"hesperiden",
+										left: {
+
+										},
+										right: {
+
+										}
+									}
+								},
+								fallbacks: {
+									allowHTML5AutoPlayOnAndroid:true
+								},
+							});
+						}
+						
+					});
+					} // End of RevInitScript
+				var once_revslider11 = false;
+				if (document.readyState === "loading") {document.addEventListener('readystatechange',function() { if((document.readyState === "interactive" || document.readyState === "complete") && !once_revslider11 ) { once_revslider11 = true; revinit_revslider11();}});} else {once_revslider11 = true; revinit_revslider11();}
+				</script>
+				<script>
+					var htmlDivCss = unescape("%23rev_slider_1_1_wrapper%20.hesperiden.tparrows%20%7B%0A%09cursor%3Apointer%3B%0A%09background%3Argba%280%2C0%2C0%2C0.5%29%3B%0A%09width%3A40px%3B%0A%09height%3A40px%3B%0A%09position%3Aabsolute%3B%0A%09display%3Ablock%3B%0A%09z-index%3A1000%3B%0A%20%20%20%20border-radius%3A%2050%25%3B%0A%7D%0A%23rev_slider_1_1_wrapper%20.hesperiden.tparrows%3Ahover%20%7B%0A%09background%3A%23000000%3B%0A%7D%0A%23rev_slider_1_1_wrapper%20.hesperiden.tparrows%3Abefore%20%7B%0A%09font-family%3A%20%27revicons%27%3B%0A%09font-size%3A20px%3B%0A%09color%3A%23ffffff%3B%0A%09display%3Ablock%3B%0A%09line-height%3A%2040px%3B%0A%09text-align%3A%20center%3B%0A%7D%0A%23rev_slider_1_1_wrapper%20.hesperiden.tparrows.tp-leftarrow%3Abefore%20%7B%0A%09content%3A%20%27%5Ce82c%27%3B%0A%20%20%20%20margin-left%3A-3px%3B%0A%7D%0A%23rev_slider_1_1_wrapper%20.hesperiden.tparrows.tp-rightarrow%3Abefore%20%7B%0A%09content%3A%20%27%5Ce82d%27%3B%0A%20%20%20%20margin-right%3A-3px%3B%0A%7D%0A");
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+				</script>
+				<script>
+					var htmlDivCss = unescape("%0A%0A%0A%0A%0A");
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+				</script>
+			</rs-module-wrap>
+			<!-- END REVOLUTION SLIDER -->
+</div>
+
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6bbb057b elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="6bbb057b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;ekit_has_onepagescroll_dot&quot;:&quot;yes&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-33712890" data-id="33712890" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-da6d537 elementor-widget elementor-widget-image" data-id="da6d537" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="500" height="500" src="https://www.kabwecouncil.gov.zm/wp-content/uploads/2025/01/1000810471-removebg-preview.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://www.kabwecouncil.gov.zm/wp-content/uploads/2025/01/1000810471-removebg-preview.png 500w, https://www.kabwecouncil.gov.zm/wp-content/uploads/2025/01/1000810471-removebg-preview-300x300.png 300w, https://www.kabwecouncil.gov.zm/wp-content/uploads/2025/01/1000810471-removebg-preview-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px" style="width:100%;height:100%;max-width:500px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-fab409b elementor-widget elementor-widget-heading" data-id="fab409b" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.5 - 03-02-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-small">Mr. Patrick Chishala<br>His Worship The Mayor.</h2>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-42276024" data-id="42276024" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1852fe3a elementor-widget elementor-widget-elementskit-heading" data-id="1852fe3a" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-heading.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" ><div class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="ekit-heading--title elementskit-section-title ">
+					Welcome To Kabwe District 
+				</h2>				<div class='ekit-heading__description'>
+					<p>A warm welcome to Kabwe Municipal Council website, a platform created to give you, our valued and esteemed public the opportunity to interact with us, as well as to ensure that information on services and opportunities available in Kabwe District is made available and easily accessible by you the general public. Kabwe is the Provincial capital of Central Province situated along the Great North road 139Km.<strong><a href="https://www.kabwecouncil.gov.zm/?page_id=1541">Read More..</a></strong></p>
+				</div>
+			<div class="ekit_heading_separetor_wraper ekit_heading_elementskit-border-divider"><div class="elementskit-border-divider"></div></div></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7ab3964e elementor-widget elementor-widget-spacer" data-id="7ab3964e" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-78478f45" data-id="78478f45" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e2aeb1a elementor-widget elementor-widget-image" data-id="e2aeb1a" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="https://www.kabwecouncil.gov.zm/wp-content/uploads/2026/02/TC-2-e1771773544229.png" title="" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-c17d101 elementor-widget elementor-widget-heading" data-id="c17d101" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-small">Mr. Jovax Ngoma<br>Town Clerk.</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1bb53dd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1bb53dd" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;ekit_has_onepagescroll_dot&quot;:&quot;yes&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-48dd1fb5" data-id="48dd1fb5" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-35bf57a9 elementor-widget elementor-widget-heading" data-id="35bf57a9" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Keep Kabwe Clean, <span style="color: darkgreen;">Green </span>& Healthy</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-40849521 elementor-widget elementor-widget-text-editor" data-id="40849521" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><em>Let’s build the <span class="underline">Zambia we want!</span></em>.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-11f65c52 elementor-widget elementor-widget-text-editor" data-id="11f65c52" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>The Ministry of Local Government and Rural Developement has unveiled the Keep Zambia Clean, Green and Healthy Communication Strategy (2024-2028). Supported by a robust legal framework, the strategy aims to inspire the behavioural changes essential for effective solid waste management across communities.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-3b06fd8d elementor-align-center elementor-widget elementor-widget-button" data-id="3b06fd8d" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Click here</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3d515a18" data-id="3d515a18" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-34cd3280 elementor--v-position-bottom elementor--h-position-center elementor-arrows-position-inside elementor-pagination-position-inside elementor-widget elementor-widget-slides" data-id="34cd3280" data-element_type="widget" data-settings="{&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;transition&quot;:&quot;slide&quot;,&quot;transition_speed&quot;:500,&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="slides.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor-pro - v3.6.2 - 14-02-2022 */
+.elementor-slides .swiper-slide-bg{background-size:cover;background-position:50%;background-repeat:no-repeat;min-width:100%;min-height:100%}.elementor-slides .swiper-slide-inner{background-repeat:no-repeat;background-position:50%;position:absolute;top:0;left:0;bottom:0;right:0;padding:50px;margin:auto}.elementor-slides .swiper-slide-inner,.elementor-slides .swiper-slide-inner:hover{color:#fff;display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-slides .swiper-slide-inner .elementor-background-overlay{position:absolute;z-index:0;top:0;bottom:0;left:0;right:0}.elementor-slides .swiper-slide-inner .elementor-slide-content{position:relative;z-index:1;width:100%}.elementor-slides .swiper-slide-inner .elementor-slide-heading{font-size:35px;font-weight:700;line-height:1}.elementor-slides .swiper-slide-inner .elementor-slide-description{font-size:17px;line-height:1.4}.elementor-slides .swiper-slide-inner .elementor-slide-description:not(:last-child),.elementor-slides .swiper-slide-inner .elementor-slide-heading:not(:last-child){margin-bottom:30px}.elementor-slides .swiper-slide-inner .elementor-slide-button{border:2px solid #fff;color:#fff;background:transparent;display:inline-block}.elementor-slides .swiper-slide-inner .elementor-slide-button,.elementor-slides .swiper-slide-inner .elementor-slide-button:hover{background:transparent;color:inherit;text-decoration:none}.elementor--v-position-top .swiper-slide-inner{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.elementor--v-position-bottom .swiper-slide-inner{-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end}.elementor--v-position-middle .swiper-slide-inner{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor--h-position-left .swiper-slide-inner{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor--h-position-right .swiper-slide-inner{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor--h-position-center .swiper-slide-inner{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}body.rtl .elementor-widget-slides .elementor-swiper-button-next{left:10px;right:auto}body.rtl .elementor-widget-slides .elementor-swiper-button-prev{right:10px;left:auto}.elementor-slides-wrapper div:not(.swiper-slide)>.swiper-slide-inner{display:none}@media (max-width:767px){.elementor-slides .swiper-slide-inner{padding:30px}.elementor-slides .swiper-slide-inner .elementor-slide-heading{font-size:23px;line-height:1;margin-bottom:15px}.elementor-slides .swiper-slide-inner .elementor-slide-description{font-size:13px;line-height:1.4;margin-bottom:15px}}</style>		<div class="elementor-swiper">
+			<div class="elementor-slides-wrapper elementor-main-swiper swiper-container" dir="ltr" data-animation="fadeInUp">
+				<div class="swiper-wrapper elementor-slides">
+										<div class="elementor-repeater-item-2813bbd swiper-slide"><div class="swiper-slide-bg"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"><div class="elementor-slide-description">Cleaning at the Railway Crossing </div><div  class="elementor-button elementor-slide-button elementor-size-sm">Click Here</div></div></div></div><div class="elementor-repeater-item-04cf700 swiper-slide"><div class="swiper-slide-bg"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"><div class="elementor-slide-description">Women led the change in town cleanup</div><div  class="elementor-button elementor-slide-button elementor-size-sm">Click Here</div></div></div></div><div class="elementor-repeater-item-efe4038 swiper-slide"><div class="swiper-slide-bg"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"><div class="elementor-slide-description">Making Kabwe Clean & Green</div><div  class="elementor-button elementor-slide-button elementor-size-sm">Click Here</div></div></div></div><div class="elementor-repeater-item-add1674 swiper-slide"><div class="swiper-slide-bg"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"><div class="elementor-slide-description">Teamwork  & Community spirit of working together to make kabwe cleaner  and Greener & healthier</div><div  class="elementor-button elementor-slide-button elementor-size-sm">Click Here</div></div></div></div>				</div>
+															<div class="swiper-pagination"></div>
+																<div class="elementor-swiper-button elementor-swiper-button-prev">
+							<i aria-hidden="true" class="eicon-chevron-left"></i>							<span class="elementor-screen-only">Previous</span>
+						</div>
+						<div class="elementor-swiper-button elementor-swiper-button-next">
+							<i aria-hidden="true" class="eicon-chevron-right"></i>							<span class="elementor-screen-only">Next</span>
+						</div>
+												</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b690476 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b690476" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;ekit_has_onepagescroll_dot&quot;:&quot;yes&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0f278fa" data-id="0f278fa" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7043b51 elementor-widget elementor-widget-text-editor" data-id="7043b51" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<marquee>
+<div style="height: 30px; overflow: hidden; display: flex; align-items: center;">
+
+Attention!! application for 2026 <img style="height: 20px; vertical-align: middle;" src="http://www.serenjecouncil.gov.zm/wp-content/uploads/2025/11/cdf.png" alt="" />
+is now closed for all
+categories 
+
+</marquee>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-daab5c4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="daab5c4" data-element_type="section" data-settings="{&quot;ekit_has_onepagescroll_dot&quot;:&quot;yes&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-21dc4eb" data-id="21dc4eb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c9e67ff elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="c9e67ff" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/taXLSdrgn5k?si=eJ0b_5kOaIHpaYg2&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;,&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.5 - 03-02-2022 */
+.elementor-widget-video .elementor-widget-container{overflow:hidden;-webkit-transform:translateZ(0);transform:translateZ(0)}.elementor-widget-video .elementor-open-inline .elementor-custom-embed-image-overlay{position:absolute;top:0;left:0;width:100%;height:100%;-webkit-background-size:cover;background-size:cover;background-position:50%}.elementor-widget-video .elementor-custom-embed-image-overlay{cursor:pointer;text-align:center}.elementor-widget-video .elementor-custom-embed-image-overlay:hover .elementor-custom-embed-play i{opacity:1}.elementor-widget-video .elementor-custom-embed-image-overlay img{display:block;width:100%}.elementor-widget-video .e-hosted-video .elementor-video{-o-object-fit:cover;object-fit:cover}</style>		<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-9a6b513" data-id="9a6b513" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c743b63 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="c743b63" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/7bSvP7KuGk0?si=wqZFkJPVGi5-bFgs&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;,&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4ede7d59 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="4ede7d59" data-element_type="section" id="CDFSection" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;ekit_has_onepagescroll_dot&quot;:&quot;yes&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-659be75b" data-id="659be75b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-5ec79f90 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5ec79f90" data-element_type="section" data-settings="{&quot;ekit_has_onepagescroll_dot&quot;:&quot;yes&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-685e3e87" data-id="685e3e87" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6aa1f064 elementor-widget elementor-widget-elementskit-heading" data-id="6aa1f064" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-heading.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" ><div class="ekit-heading elementskit-section-title-wraper text_right   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="ekit-heading--title elementskit-section-title ">
+					Constituency Development Fund (CDF)
+				</h2></div></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-50c5d71b" data-id="50c5d71b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-61edbd6e elementor-view-stacked elementor-shape-circle elementor-widget elementor-widget-icon" data-id="61edbd6e" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<a class="elementor-icon" href="#CDFSection">
+			<i aria-hidden="true" class="fas fa-arrow-down"></i>			</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-6dff3b62 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6dff3b62" data-element_type="section" data-settings="{&quot;ekit_has_onepagescroll_dot&quot;:&quot;yes&quot;}">
+						<div class="elementor-container elementor-column-gap-wide">
+					<div data-uael-partstyle="default" data-uael-partcolor="" data-uael-partopacity="" data-uael-partdirection="bottom" data-uael-partnum="" data-uael-partsize="" data-uael-partspeed="" data-uael-interactive="no" class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-3c8607e4 uael-particle-yes uael-particle-adv-yes" data-id="3c8607e4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-191d7d2f ekit-equal-height-enable elementor-widget elementor-widget-elementskit-icon-box" data-id="191d7d2f" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-center text-center icon-top-align elementor-animation-   ">
+                            <div class="elementskit-box-header">
+                <div class="elementskit-info-box-icon ">
+                    <img width="768" height="367" src="https://www.kabwecouncil.gov.zm/wp-content/uploads/2025/06/Webiste-Play-Field-Template-768x367-1.png" class="attachment- size-" alt="" loading="lazy" srcset="https://www.kabwecouncil.gov.zm/wp-content/uploads/2025/06/Webiste-Play-Field-Template-768x367-1.png 768w, https://www.kabwecouncil.gov.zm/wp-content/uploads/2025/06/Webiste-Play-Field-Template-768x367-1-300x143.png 300w" sizes="(max-width: 768px) 100vw, 768px" style="" />                </div>
+          </div>
+                <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    CDF Tracker                </h3>
+                                    <p>View resources available by Constituency.   </p>
+                                        <div class="box-footer disable_hover_button">
+                    <div class="btn-wraper">
+                                                            <a href="" target="_blank" rel="" class="elementskit-btn whitespace--normal elementor-animation-">
+                                        View Tracker                                    </a>
+                                                        </div>
+                </div>
+                    </div>
+        
+        
+                </div>
+        </div>		</div>
+				</div>
+					</div>
+		</div>
+				<div data-uael-partstyle="default" data-uael-partcolor="" data-uael-partopacity="" data-uael-partdirection="bottom" class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5df43f84 uael-particle-yes uael-particle-adv-no" data-id="5df43f84" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-89f5e25 elementor-widget elementor-widget-text-editor" data-id="89f5e25" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>CDF News:</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-69bd16d1 elementor-align-justify elementor-widget elementor-widget-button" data-id="69bd16d1" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://www.katetecouncil.gov.zm/wp-content/uploads/2023/11/SKILLS-DEVELOPMENT-BURSARY-APPLICATION-FORM.pdf" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">CDF Skills Bursaries Applicants</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1e15606 elementor-align-center elementor-widget elementor-widget-button" data-id="1e15606" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://www.katetecouncil.gov.zm/wp-content/uploads/2023/11/Press-Statement-CDF.pdf" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-right">
+				<i aria-hidden="true" class="fas fa-cloud-download-alt"></i>			</span>
+						<span class="elementor-button-text">Download Latest Statement</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6e0e5d96 elementor-align-center elementor-widget elementor-widget-button" data-id="6e0e5d96" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://www.katetecouncil.gov.zm/wp-content/uploads/2023/11/Press-Statement-CDF.pdf" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-right">
+				<i aria-hidden="true" class="fas fa-th-list"></i>			</span>
+						<span class="elementor-button-text">View Previous Statements</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div data-uael-partstyle="default" data-uael-partcolor="" data-uael-partopacity="" data-uael-partdirection="bottom" class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-25b3d4de uael-particle-yes uael-particle-adv-no" data-id="25b3d4de" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2b40a50d ekit-equal-height-enable elementor-widget elementor-widget-elementskit-icon-box" data-id="2b40a50d" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-center text-center icon-top-align elementor-animation-   ">
+                            <div class="elementskit-box-header">
+                <div class="elementskit-info-box-icon ">
+                    <img width="768" height="367" src="https://www.kabwecouncil.gov.zm/wp-content/uploads/2025/06/Webiste-Play-Field-Template-768x367-1.png" class="attachment- size-" alt="" loading="lazy" srcset="https://www.kabwecouncil.gov.zm/wp-content/uploads/2025/06/Webiste-Play-Field-Template-768x367-1.png 768w, https://www.kabwecouncil.gov.zm/wp-content/uploads/2025/06/Webiste-Play-Field-Template-768x367-1-300x143.png 300w" sizes="(max-width: 768px) 100vw, 768px" style="" />                </div>
+          </div>
+                <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    CDF Guidelines                </h3>
+                                    <p>View guidelines for CDF funds. </p>
+                                        <div class="box-footer disable_hover_button">
+                    <div class="btn-wraper">
+                                                            <a href="https://www.kabwecouncil.gov.zm/wp-content/uploads/2025/09/CDF-Guidelines.pdf" target="_self" rel="" class="elementskit-btn whitespace--normal elementor-animation-">
+                                        Download Guidelines                                    </a>
+                                                        </div>
+                </div>
+                    </div>
+        
+        
+                </div>
+        </div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-2919af8b elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2919af8b" data-element_type="section" data-settings="{&quot;ekit_has_onepagescroll_dot&quot;:&quot;yes&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-c73a003" data-id="c73a003" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-10535d9a elementor-widget elementor-widget-elementskit-blog-posts" data-id="10535d9a" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-blog-posts.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >
+        <div id="post-items--10535d9a" class="row post-items ekit-blog-posts-content">
+
+                </div>
+        
+        
+        </div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1aed4a7e elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="1aed4a7e" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;,&quot;ekit_has_onepagescroll_dot&quot;:&quot;yes&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2639bdcf" data-id="2639bdcf" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2b480cd2 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="2b480cd2" data-element_type="section" id="xs_business_blog" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;ekit_has_onepagescroll_dot&quot;:&quot;yes&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-978adf9" data-id="978adf9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-208dd4ca elementor-widget elementor-widget-spacer" data-id="208dd4ca" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5896bcaf elementor-skin-coverflow elementor-arrows-yes elementor-pagination-type-bullets elementor-pagination-position-outside elementor-widget elementor-widget-media-carousel" data-id="5896bcaf" data-element_type="widget" data-settings="{&quot;skin&quot;:&quot;coverflow&quot;,&quot;slides_to_scroll&quot;:&quot;10&quot;,&quot;show_arrows&quot;:&quot;yes&quot;,&quot;pagination&quot;:&quot;bullets&quot;,&quot;speed&quot;:500,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;loop&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="media-carousel.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://www.kabwecouncil.gov.zm/wp-content/plugins/elementor-pro/assets/css/widget-carousel.min.css">		<div class="elementor-swiper">
+			<div class="elementor-main-swiper swiper-container">
+				<div class="swiper-wrapper">
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(https://www.kabwecouncil.gov.zm/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-13-at-4.07.06-PM.jpeg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(https://www.kabwecouncil.gov.zm/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-13-at-4.07.07-PM.jpeg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(https://www.kabwecouncil.gov.zm/wp-content/uploads/2025/11/PXL_20251112_090944640-scaled.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(https://www.kabwecouncil.gov.zm/wp-content/uploads/2025/11/PXL_20251112_101440267.MP_-scaled.jpg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(https://www.kabwecouncil.gov.zm/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-13-at-4.07.06-PM.jpeg)">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(https://www.kabwecouncil.gov.zm/wp-content/uploads/2025/11/PXL_20251112_102325254.MP_-scaled.jpg)">
+					</div>
+								</div>
+									</div>
+															<div class="swiper-pagination"></div>
+																<div class="elementor-swiper-button elementor-swiper-button-prev">
+							<i aria-hidden="true" class="eicon-chevron-left"></i>							<span class="elementor-screen-only">Previous</span>
+						</div>
+						<div class="elementor-swiper-button elementor-swiper-button-next">
+							<i aria-hidden="true" class="eicon-chevron-right"></i>							<span class="elementor-screen-only">Next</span>
+						</div>
+												</div>
+		</div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-f57de8c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f57de8c" data-element_type="section" data-settings="{&quot;ekit_has_onepagescroll_dot&quot;:&quot;yes&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-5c2b820" data-id="5c2b820" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4e8ad056 e-transform elementor-widget elementor-widget-elementskit-heading" data-id="4e8ad056" data-element_type="widget" data-settings="{&quot;_transform_rotateZ_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:360,&quot;sizes&quot;:[]},&quot;_transform_rotateX_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:8,&quot;sizes&quot;:[]},&quot;_transform_rotateY_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:8,&quot;sizes&quot;:[]},&quot;_transform_perspective_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1000,&quot;sizes&quot;:[]},&quot;ekit_we_effect_on&quot;:&quot;none&quot;,&quot;_transform_rotateZ_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateX_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateX_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateY_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateY_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_perspective_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_perspective_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="elementskit-heading.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" ><div class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="ekit-heading--title elementskit-section-title ">
+					Latest News
+				</h2><div class="ekit_heading_separetor_wraper ekit_heading_elementskit-border-divider"><div class="elementskit-border-divider"></div></div></div></div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7ca6b0c3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7ca6b0c3" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;ekit_has_onepagescroll_dot&quot;:&quot;yes&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-fa6757f" data-id="fa6757f" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;none&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3686cd74 elementor-grid-5 elementor-grid-tablet-2 elementor-grid-mobile-1 elementor-posts--thumbnail-top elementor-widget elementor-widget-posts" data-id="3686cd74" data-element_type="widget" data-settings="{&quot;classic_masonry&quot;:&quot;yes&quot;,&quot;classic_columns&quot;:&quot;5&quot;,&quot;classic_columns_tablet&quot;:&quot;2&quot;,&quot;classic_columns_mobile&quot;:&quot;1&quot;,&quot;classic_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]},&quot;classic_row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;classic_row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="posts.classic">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://www.kabwecouncil.gov.zm/wp-content/plugins/elementor-pro/assets/css/widget-posts.min.css">		<div class="elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid">
+				<article class="elementor-post elementor-grid-item post-5284 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized entry">
+				<a class="elementor-post__thumbnail__link" href="https://www.kabwecouncil.gov.zm/?p=5284" >
+			<div class="elementor-post__thumbnail"><img width="750" height="563" src="https://www.kabwecouncil.gov.zm/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-28-at-9.11.41-AM-768x576.jpeg" class="attachment-medium_large size-medium_large" alt="voter facilitors" loading="lazy" style="width:100%;height:75%;max-width:1020px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://www.kabwecouncil.gov.zm/?p=5284" >
+				49 DISTRICT VOTER EDUCATION FACILITATORS DEPLOYED BY ECZ IN KABWE DISTRICT.			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+					</div>
+					<a class="elementor-post__read-more" href="https://www.kabwecouncil.gov.zm/?p=5284" >
+				Read More »			</a>
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-4873 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized entry">
+				<a class="elementor-post__thumbnail__link" href="https://www.kabwecouncil.gov.zm/?p=4873" >
+			<div class="elementor-post__thumbnail"><img width="750" height="563" src="https://www.kabwecouncil.gov.zm/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-08-at-5.20.54-PM-768x576.jpeg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" style="width:100%;height:75%;max-width:1080px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://www.kabwecouncil.gov.zm/?p=4873" >
+				KABWE MUNICIPAL COUNCIL ENGAGES STAKEHOLDERS ON PROPOSED NEW BY-LAWS			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>Kabwe Municipal Council has received widespread commendation for initiating stakeholder consultations on six proposed new by-laws aimed at protecting the environment, curbing land degradation, and</p>
+		</div>
+					<a class="elementor-post__read-more" href="https://www.kabwecouncil.gov.zm/?p=4873" >
+				Read More »			</a>
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-4868 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized entry">
+				<a class="elementor-post__thumbnail__link" href="https://www.kabwecouncil.gov.zm/?p=4868" >
+			<div class="elementor-post__thumbnail"><img width="750" height="563" src="https://www.kabwecouncil.gov.zm/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-08-at-5.19.17-PM-768x576.jpeg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" style="width:100%;height:75%;max-width:1024px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://www.kabwecouncil.gov.zm/?p=4868" >
+				KABWE SELECTED FOR NATIONAL FUKUOKA LANDFILL TRAINING.			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>KABWE SELECTED FOR NATIONAL FUKUOKA LANDFILL TRAINING 8th December 2025. We are proud to be part of the on-going Ministry of Local Government and Rural</p>
+		</div>
+					<a class="elementor-post__read-more" href="https://www.kabwecouncil.gov.zm/?p=4868" >
+				Read More »			</a>
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-4854 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized entry">
+				<a class="elementor-post__thumbnail__link" href="https://www.kabwecouncil.gov.zm/?p=4854" >
+			<div class="elementor-post__thumbnail"><img width="750" height="563" src="https://www.kabwecouncil.gov.zm/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-08-at-4.28.27-PM-4-768x576.jpeg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" style="width:100%;height:75%;max-width:1024px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://www.kabwecouncil.gov.zm/?p=4854" >
+				KABWE FIRE BRIGADE PREVENTS A HOUSE TURNING INTO ASHES.			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>Kabwe &#8211; 8th December 2025. KABWE MUNICIPAL COUNCIL FIRE BRIGADE PREVENTS A HOUSE TURNING INTO ASHES. Kabwe Municipal Council fire fighters this morning prevented a</p>
+		</div>
+					<a class="elementor-post__read-more" href="https://www.kabwecouncil.gov.zm/?p=4854" >
+				Read More »			</a>
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-4386 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized entry">
+				<a class="elementor-post__thumbnail__link" href="https://www.kabwecouncil.gov.zm/?p=4386" >
+			<div class="elementor-post__thumbnail"><img width="750" height="524" src="https://www.kabwecouncil.gov.zm/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-13-at-4.07.07-PM-768x537.jpeg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" style="width:100%;height:69.91%;max-width:1080px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://www.kabwecouncil.gov.zm/?p=4386" >
+				CDF PROJECT MONITORING BY KABWE MUNICIPAL COUNCIL MANAGEMENT TEAM			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>Yesterday, a senior management team conducted on-site inspections of the 2025-approved Constituency Development Fund (CDF) projects across Kabwe Central and Bwacha constituencies. The exercise focused</p>
+		</div>
+					<a class="elementor-post__read-more" href="https://www.kabwecouncil.gov.zm/?p=4386" >
+				Read More »			</a>
+				</div>
+				</article>
+				</div>
+
+
+		
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+				<div data-elementor-type="footer" data-elementor-id="124" class="elementor elementor-124 elementor-location-footer" data-elementor-settings="[]">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-70838fdb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="70838fdb" data-element_type="section" id="xs_footer_8" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;shape_divider_bottom&quot;:&quot;tilt&quot;,&quot;ekit_has_onepagescroll_dot&quot;:&quot;yes&quot;}">
+					<div class="elementor-shape elementor-shape-bottom" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" d="M0,6V0h1000v100L0,6z"/>
+</svg>		</div>
+					<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-61824f04" data-id="61824f04" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-49c98a09 elementor-widget elementor-widget-heading" data-id="49c98a09" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Contact Information</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-97eb445 elementor-widget elementor-widget-text-editor" data-id="97eb445" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><strong>Kabwe Municipal Council</strong></p><p><strong>Central Province, Zambia</strong></p><p><strong>Tel: 260 215 224 238</strong><br /><strong>P.O Box: 80424</strong></p><p><strong>Email: kabwemunicipalcouncil@gmail.com</strong></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-800c6a2 elementor-widget elementor-widget-button" data-id="800c6a2" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://www.kabwecouncil.gov.zm/?page_id=2221" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Complaint</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-343d016 elementor-widget elementor-widget-heading" data-id="343d016" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-medium">Follow Us</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-20f13c26 elementor-widget elementor-widget-elementskit-social-media" data-id="20f13c26" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-social-media.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >			 <ul class="ekit_social_media">
+														<li class="elementor-repeater-item-da8f4de">
+					    <a
+						href="https://web.facebook.com/profile.php?id=61559612087392" target="_blank" class="square" >
+														
+							<i aria-hidden="true" class="fab fa-facebook-square"></i>									
+                                                                                                            </a>
+                    </li>
+                    														<li class="elementor-repeater-item-3a153ea">
+					    <a
+						href="https://www.youtube.com/@kabwecouncil" class="square" >
+														
+							<i aria-hidden="true" class="fab fa-youtube-square"></i>									
+                                                                                                            </a>
+                    </li>
+                    														<li class="elementor-repeater-item-403cf88">
+					    <a
+						href="https://www.bing.com/ck/a?!&#038;&#038;p=759f2ad9765058ca7b6b059ef1736d3e6b64995213186a1e6800eb7621dc96c7JmltdHM9MTc2Mzk0MjQwMA&#038;ptn=3&#038;ver=2&#038;hsh=4&#038;fclid=109fc1c1-ef03-62c3-399e-d74feeba6312&#038;psq=twitter&#038;u=a1aHR0cHM6Ly90d2l0dGVyLmNvbS8" class="twitter" >
+														
+							<i aria-hidden="true" class="fab fa-twitter"></i>									
+                                                                                                            </a>
+                    </li>
+                    														<li class="elementor-repeater-item-c6e4ad3">
+					    <a
+						href="https://whatsapp.com/channel/0029Vag1Y3N9Gv7YDWgVxW3n" class="whatsapp" >
+														
+							<i aria-hidden="true" class="fab fa-whatsapp"></i>									
+                                                                                                            </a>
+                    </li>
+                    							</ul>
+		</div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-589d61d" data-id="589d61d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1a804e3 elementor-widget elementor-widget-text-editor" data-id="1a804e3" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+													</div>
+				</div>
+				<div class="elementor-element elementor-element-eba5e82 elementor-widget elementor-widget-heading" data-id="eba5e82" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Quick Links</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-681d1d7 elementor-widget elementor-widget-text-editor" data-id="681d1d7" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items"><li class="elementor-icon-list-item"><strong><a href="https://www.mlgrd.gov.zm/" target="_blank" rel="noopener"><span class="elementor-icon-list-text">Ministry of Local Government and Rural Development</span></a></strong></li><li class="elementor-icon-list-item"><strong><a href="https://www.lgsc.gov.zm/"><span class="elementor-icon-list-text">Local Government Service Comission</span></a></strong></li><li class="elementor-icon-list-item"><strong><a href="https://www.mofnp.gov.zm/" target="_blank" rel="noopener"><span class="elementor-icon-list-text">Ministry of Finance and National Planning</span></a></strong></li><li class="elementor-icon-list-item"><strong><a href="https://www.agriculture.gov.zm/" target="_blank" rel="noopener"><span class="elementor-icon-list-text">Ministry of Agriculture</span></a></strong></li><li class="elementor-icon-list-item"><strong><a href="https://www.parliament.gov.zm/" target="_blank" rel="noopener"><span class="elementor-icon-list-text">National Assembly of Zambia</span></a></strong></li><li class="elementor-icon-list-item"><strong><a href="http://www.clgti.co.zm/" target="_blank" rel="noopener"><span class="elementor-icon-list-text">Local Government Training Institute</span></a></strong></li><li><strong><a href="https://www.szi.gov.zm/">SMART Zambia</a></strong></li></ul>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-382f976 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="382f976" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;ekit_has_onepagescroll_dot&quot;:&quot;yes&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4df73a33" data-id="4df73a33" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-58a7d41a elementor-widget elementor-widget-elementskit-heading" data-id="58a7d41a" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-heading.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" ><div class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-text_center"><p class="ekit-heading--title elementskit-section-title ">
+					©2023. SMART Zambia Institute. All Rights Reserved.
+				</p></div></div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+		
+<script>document.body.classList.remove("no-js");</script>	<script>
+	if ( -1 !== navigator.userAgent.indexOf( 'MSIE' ) || -1 !== navigator.appVersion.indexOf( 'Trident/' ) ) {
+		document.body.classList.add( 'is-IE' );
+	}
+	</script>
+	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><link href="https://fonts.googleapis.com/css?family=Poppins:800%2C500%7CRoboto:400" rel="stylesheet" property="stylesheet" media="all" type="text/css" >
+
+		<script type="text/javascript">
+		if(typeof revslider_showDoubleJqueryError === "undefined") {
+			function revslider_showDoubleJqueryError(sliderID) {
+				var err = "<div class='rs_error_message_box'>";
+				err += "<div class='rs_error_message_oops'>Oops...</div>";
+				err += "<div class='rs_error_message_content'>";
+				err += "You have some jquery.js library include that comes after the Slider Revolution files js inclusion.<br>";
+				err += "To fix this, you can:<br>&nbsp;&nbsp;&nbsp; 1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on";
+				err += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jQuery.js inclusion and remove it";
+				err += "</div>";
+			err += "</div>";
+				var slider = document.getElementById(sliderID); slider.innerHTML = err; slider.style.display = "block";
+			}
+		}
+		</script>
+<link rel='stylesheet' id='e-animations-css'  href='https://www.kabwecouncil.gov.zm/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.5.5' media='all' />
+<script id='twenty-twenty-one-ie11-polyfills-js-after'>
+( Element.prototype.matches && Element.prototype.closest && window.NodeList && NodeList.prototype.forEach ) || document.write( '<script src="https://www.kabwecouncil.gov.zm/wp-content/themes/twentytwentyone/assets/js/polyfills.js?ver=1.5"></scr' + 'ipt>' );
+</script>
+<script src='https://www.kabwecouncil.gov.zm/wp-content/themes/twentytwentyone/assets/js/responsive-embeds.js?ver=1.5' id='twenty-twenty-one-responsive-embeds-script-js'></script>
+<script src='https://www.kabwecouncil.gov.zm/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=2.5.3' id='elementskit-framework-js-frontend-js'></script>
+<script id='elementskit-framework-js-frontend-js-after'>
+		var elementskit = {
+            resturl: 'https://www.kabwecouncil.gov.zm/index.php?rest_route=/elementskit/v1/',
+        }
+
+		
+</script>
+<script src='https://www.kabwecouncil.gov.zm/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=2.5.3' id='ekit-widget-scripts-js'></script>
+<script defer src='https://www.kabwecouncil.gov.zm/wp-content/plugins/elementskit/modules/parallax/assets/js/parallax-frontend-scripts.js?ver=2.6.2' id='elementskit-parallax-frontend-defer-js'></script>
+<script src='https://www.kabwecouncil.gov.zm/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1' id='smartmenus-js'></script>
+<script src='https://www.kabwecouncil.gov.zm/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script src='https://www.kabwecouncil.gov.zm/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.6.2' id='elementor-pro-webpack-runtime-js'></script>
+<script src='https://www.kabwecouncil.gov.zm/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.5.5' id='elementor-webpack-runtime-js'></script>
+<script src='https://www.kabwecouncil.gov.zm/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.5.5' id='elementor-frontend-modules-js'></script>
+<script src='https://www.kabwecouncil.gov.zm/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script src='https://www.kabwecouncil.gov.zm/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script src='https://www.kabwecouncil.gov.zm/wp-includes/js/dist/hooks.min.js?ver=1e58c8c5a32b2e97491080c5b10dc71c' id='wp-hooks-js'></script>
+<script src='https://www.kabwecouncil.gov.zm/wp-includes/js/dist/i18n.min.js?ver=30fcecb428a0e8383d3776bcdd3a7834' id='wp-i18n-js'></script>
+<script id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id='elementor-pro-frontend-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "elementor-pro", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script id='elementor-pro-frontend-js-before'>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.kabwecouncil.gov.zm\/wp-admin\/admin-ajax.php","nonce":"cab46f6983","urls":{"assets":"https:\/\/www.kabwecouncil.gov.zm\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.kabwecouncil.gov.zm\/index.php?rest_route=\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.kabwecouncil.gov.zm\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script src='https://www.kabwecouncil.gov.zm/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.6.2' id='elementor-pro-frontend-js'></script>
+<script src='https://www.kabwecouncil.gov.zm/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script src='https://www.kabwecouncil.gov.zm/wp-includes/js/jquery/ui/core.min.js?ver=1.13.0' id='jquery-ui-core-js'></script>
+<script id='elementor-frontend-js-extra'>
+var uael_particles_script = {"uael_particles_url":"https:\/\/www.kabwecouncil.gov.zm\/wp-content\/plugins\/ultimate-elementor\/assets\/min-js\/uael-particles.min.js","particles_url":"https:\/\/www.kabwecouncil.gov.zm\/wp-content\/plugins\/ultimate-elementor\/assets\/lib\/particles\/particles.min.js","snowflakes_image":"https:\/\/www.kabwecouncil.gov.zm\/wp-content\/plugins\/ultimate-elementor\/assets\/img\/snowflake.svg","gift":"https:\/\/www.kabwecouncil.gov.zm\/wp-content\/plugins\/ultimate-elementor\/assets\/img\/gift.png","tree":"https:\/\/www.kabwecouncil.gov.zm\/wp-content\/plugins\/ultimate-elementor\/assets\/img\/tree.png","skull":"https:\/\/www.kabwecouncil.gov.zm\/wp-content\/plugins\/ultimate-elementor\/assets\/img\/skull.png","ghost":"https:\/\/www.kabwecouncil.gov.zm\/wp-content\/plugins\/ultimate-elementor\/assets\/img\/ghost.png","moon":"https:\/\/www.kabwecouncil.gov.zm\/wp-content\/plugins\/ultimate-elementor\/assets\/img\/moon.png","bat":"https:\/\/www.kabwecouncil.gov.zm\/wp-content\/plugins\/ultimate-elementor\/assets\/img\/bat.png","pumpkin":"https:\/\/www.kabwecouncil.gov.zm\/wp-content\/plugins\/ultimate-elementor\/assets\/img\/pumpkin.png"};
+</script>
+<script id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.5.5","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"e_import_export":true,"additional_custom_breakpoints":true,"e_hidden_wordpress_widgets":true,"theme_builder_v2":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true,"page-transitions":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/www.kabwecouncil.gov.zm\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":15,"title":"Kabwe%20Municipal%20Council%20%E2%80%93%20Kabwe","excerpt":"","featuredImage":false}};
+</script>
+<script src='https://www.kabwecouncil.gov.zm/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.5.5' id='elementor-frontend-js'></script>
+<script id='elementor-frontend-js-after'>
+window.scope_array = [];
+								window.backend = 0;
+								jQuery.cachedScript = function( url, options ) {
+									// Allow user to set any option except for dataType, cache, and url.
+									options = jQuery.extend( options || {}, {
+										dataType: "script",
+										cache: true,
+										url: url
+									});
+									// Return the jqXHR object so we can chain callbacks.
+									return jQuery.ajax( options );
+								};
+							    jQuery( window ).on( "elementor/frontend/init", function() {
+									elementorFrontend.hooks.addAction( "frontend/element_ready/global", function( $scope, $ ){
+										if ( "undefined" == typeof $scope ) {
+												return;
+										}
+										if ( $scope.hasClass( "uael-particle-yes" ) ) {
+											window.scope_array.push( $scope );
+											$scope.find(".uael-particle-wrapper").addClass("js-is-enabled");
+										}else{
+											return;
+										}
+										if(elementorFrontend.isEditMode() && $scope.find(".uael-particle-wrapper").hasClass("js-is-enabled") && window.backend == 0 ){		
+											var uael_url = uael_particles_script.uael_particles_url;
+											
+											jQuery.cachedScript( uael_url );
+											window.backend = 1;
+										}else if(elementorFrontend.isEditMode()){
+											var uael_url = uael_particles_script.uael_particles_url;
+											jQuery.cachedScript( uael_url ).done(function(){
+												var flag = true;
+											});
+										}
+									});
+								});
+								 jQuery( document ).on( "ready elementor/popup/show", () => {
+									if ( jQuery.find( ".uael-particle-yes" ).length < 1 ) {
+										return;
+									}
+									var uael_url = uael_particles_script.uael_particles_url;
+									jQuery.cachedScript = function( url, options ) {
+										// Allow user to set any option except for dataType, cache, and url.
+										options = jQuery.extend( options || {}, {
+											dataType: "script",
+											cache: true,
+											url: url
+										});
+										// Return the jqXHR object so we can chain callbacks.
+										return jQuery.ajax( options );
+									};
+									jQuery.cachedScript( uael_url );
+								});	
+</script>
+<script src='https://www.kabwecouncil.gov.zm/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.6.2' id='pro-elements-handlers-js'></script>
+<script src='https://www.kabwecouncil.gov.zm/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.js?ver=2.5.3' id='animate-circle-js'></script>
+<script id='elementskit-elementor-js-extra'>
+var ekit_config = {"ajaxurl":"https:\/\/www.kabwecouncil.gov.zm\/wp-admin\/admin-ajax.php","nonce":"dde88c43f7"};
+</script>
+<script src='https://www.kabwecouncil.gov.zm/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=2.5.3' id='elementskit-elementor-js'></script>
+<script src='https://www.kabwecouncil.gov.zm/wp-content/plugins/elementskit/widgets/init/assets/js/elementor.js?ver=2.6.2' id='elementskit-elementor-pro-js'></script>
+<script src='https://www.kabwecouncil.gov.zm/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=2.5.3' id='swiper-js'></script>
+<script defer src='https://www.kabwecouncil.gov.zm/wp-content/plugins/elementskit/modules/sticky-content/assets/js/elementskit-sticky-content.js?ver=2.6.2' id='elementskit-sticky-content-script-init-defer-js'></script>
+<script defer src='https://www.kabwecouncil.gov.zm/wp-content/plugins/elementskit/modules/parallax/assets/js/parallax-admin-scripts.js?ver=2.6.2' id='elementskit-parallax-admin-defer-js'></script>
+<script src='https://www.kabwecouncil.gov.zm/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.6.2' id='e-sticky-js'></script>
+		<script>
+		/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",(function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())}),!1);
+		</script>
+		
+</body>
+</html>
