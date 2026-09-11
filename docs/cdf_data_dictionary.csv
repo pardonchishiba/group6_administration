@@ -1,0 +1,57 @@
+dataset|column_name|description|data_type
+db-unza26-csc4792-kabwe_cdf_projects_2024.csv|project_number|Unique project number assigned in the source document.|Identifier
+db-unza26-csc4792-kabwe_cdf_projects_2024.csv|year|Year of the CDF project submission.|Year
+db-unza26-csc4792-kabwe_cdf_projects_2024.csv|constituency|CDF constituency where the project is proposed or recorded.|Categorical
+db-unza26-csc4792-kabwe_cdf_projects_2024.csv|project_name|Name of the proposed CDF project.|Text
+db-unza26-csc4792-kabwe_cdf_projects_2024.csv|project_description|Description of the proposed project.|Text
+db-unza26-csc4792-kabwe_cdf_projects_2024.csv|project_type|Type or category of the CDF project.|Categorical
+db-unza26-csc4792-kabwe_cdf_projects_2024.csv|ward|Ward associated with the project.|Categorical
+db-unza26-csc4792-kabwe_cdf_projects_2024.csv|project_site|Location or site where the project is proposed.|Text
+db-unza26-csc4792-kabwe_cdf_projects_2024.csv|application_amount|Amount requested in the project application.|Numeric - ZMW
+db-unza26-csc4792-kabwe_cdf_projects_2024.csv|engineers_estimate|Engineer estimated cost of the project.|Numeric - ZMW
+db-unza26-csc4792-kabwe_cdf_projects_2024.csv|approved_amount|Amount approved for the project.|Numeric - ZMW
+db-unza26-csc4792-kabwe_cdf_projects_2024.csv|contract_amount|Contracted amount for the project.|Numeric - ZMW
+db-unza26-csc4792-kabwe_cdf_projects_2024.csv|status|Project status recorded in the source.|Categorical
+db-unza26-csc4792-kabwe_cdf_projects_2024.csv|source_url|URL of the original source document.|Source metadata
+db-unza26-csc4792-kabwe_cdf_projects_2024.csv|source_document|Name of the original source document.|Source metadata
+db-unza26-csc4792-kabwe_cdf_projects_2025.csv|no|Project number in the 2025 proposed projects document.|Identifier
+db-unza26-csc4792-kabwe_cdf_projects_2025.csv|year|Year of the CDF project proposal.|Year
+db-unza26-csc4792-kabwe_cdf_projects_2025.csv|constituency|CDF constituency associated with the project.|Categorical
+db-unza26-csc4792-kabwe_cdf_projects_2025.csv|project|Name or description of the proposed project.|Text
+db-unza26-csc4792-kabwe_cdf_projects_2025.csv|ward|Ward associated with the project.|Categorical
+db-unza26-csc4792-kabwe_cdf_projects_2025.csv|sector|Sector of the proposed CDF project.|Categorical
+db-unza26-csc4792-kabwe_cdf_projects_2025.csv|comment|Comment or approval information recorded in the source.|Text
+db-unza26-csc4792-kabwe_cdf_projects_2025.csv|source_url|URL of the original source document.|Source metadata
+db-unza26-csc4792-kabwe_cdf_projects_2025.csv|source_document|Name of the original source document.|Source metadata
+db-unza26-csc4792-kabwe_cdf_budget_2024_2025.csv|council|Name of the local authority.|Categorical
+db-unza26-csc4792-kabwe_cdf_budget_2024_2025.csv|fund|CDF funding area represented by the budget record.|Categorical
+db-unza26-csc4792-kabwe_cdf_budget_2024_2025.csv|budget_category|Specific CDF budget category.|Categorical
+db-unza26-csc4792-kabwe_cdf_budget_2024_2025.csv|budget_2024|Budgeted amount for 2024.|Numeric - ZMW
+db-unza26-csc4792-kabwe_cdf_budget_2024_2025.csv|budget_2025|Budgeted amount for 2025.|Numeric - ZMW
+db-unza26-csc4792-kabwe_cdf_budget_2024_2025.csv|source_url|URL of the original source document.|Source metadata
+db-unza26-csc4792-kabwe_cdf_budget_2024_2025.csv|source_document|Name of the original source document.|Source metadata
+db-unza26-csc4792-kabwe_cdf_disbursements_2025.csv|year|Year in which the CDF funding was recorded.|Year
+db-unza26-csc4792-kabwe_cdf_disbursements_2025.csv|constituency|Constituency receiving the CDF funding.|Categorical
+db-unza26-csc4792-kabwe_cdf_disbursements_2025.csv|funding_type|Type of CDF funding received.|Categorical
+db-unza26-csc4792-kabwe_cdf_disbursements_2025.csv|amount_kwacha|Amount of CDF funding recorded in Zambian Kwacha.|Numeric - ZMW
+db-unza26-csc4792-kabwe_cdf_disbursements_2025.csv|source_note|Reference to the relevant note in the financial statement.|Source metadata
+db-unza26-csc4792-kabwe_cdf_disbursements_2025.csv|source_url|URL of the original source document.|Source metadata
+db-unza26-csc4792-kabwe_cdf_disbursements_2025.csv|source_document|Name of the original source document.|Source metadata
+db-unza26-csc4792-kabwe_cdf_financial_statement_2025.csv|year|Financial reporting year.|Year
+db-unza26-csc4792-kabwe_cdf_financial_statement_2025.csv|constituency|Constituency associated with the CDF transaction.|Categorical
+db-unza26-csc4792-kabwe_cdf_financial_statement_2025.csv|transaction_type|Whether the record represents a CDF receipt or payment.|Categorical
+db-unza26-csc4792-kabwe_cdf_financial_statement_2025.csv|financial_category|CDF financial category under which the transaction was recorded.|Categorical
+db-unza26-csc4792-kabwe_cdf_financial_statement_2025.csv|amount_kwacha|Amount of the transaction in Zambian Kwacha.|Numeric - ZMW
+db-unza26-csc4792-kabwe_cdf_financial_statement_2025.csv|source_note|Reference to the relevant CDF note in the financial statement.|Source metadata
+db-unza26-csc4792-kabwe_cdf_financial_statement_2025.csv|source_url|URL of the original source document.|Source metadata
+db-unza26-csc4792-kabwe_cdf_financial_statement_2025.csv|source_document|Name of the original source document.|Source metadata
+db-unza26-csc4792-kabwe_cdf_output_indicators_2025.csv|year|Budget year associated with the output indicator.|Year
+db-unza26-csc4792-kabwe_cdf_output_indicators_2025.csv|output|CDF output or activity being measured.|Text
+db-unza26-csc4792-kabwe_cdf_output_indicators_2025.csv|output_indicator|Indicator used to measure the CDF output.|Text
+db-unza26-csc4792-kabwe_cdf_output_indicators_2025.csv|target_2023|Target value for 2023.|Numeric
+db-unza26-csc4792-kabwe_cdf_output_indicators_2025.csv|actual_2023|Actual value reported for 2023.|Numeric
+db-unza26-csc4792-kabwe_cdf_output_indicators_2025.csv|target_2024|Target value for 2024.|Numeric
+db-unza26-csc4792-kabwe_cdf_output_indicators_2025.csv|actual_2024|Actual value reported for 2024.|Numeric
+db-unza26-csc4792-kabwe_cdf_output_indicators_2025.csv|target_2025|Target value for 2025.|Numeric
+db-unza26-csc4792-kabwe_cdf_output_indicators_2025.csv|source_url|URL of the original source document.|Source metadata
+db-unza26-csc4792-kabwe_cdf_output_indicators_2025.csv|source_document|Name of the original source document.|Source metadata
