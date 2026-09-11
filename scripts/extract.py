@@ -1,116 +1,80 @@
-import requests
-import pdfplumber
-import pandas as pd
-import urllib3
+from pathlib import Path
+import fitz
 
 
-PDF_URL = (
-    "https://www.kabwecouncil.gov.zm/"
-    "wp-content/uploads/2024/11/"
-    "2024-Bwacha-community-projects-Recieved.pdf"
-)
+RAW_DIR = Path("../data/raw")
+EXTRACTED_DIR = Path("../data/extracted")
 
-OUTPUT_PATH = "../data/raw/2024_bwacha_cdf_projects.pdf"
+EXTRACTED_DIR.mkdir(parents=True, exist_ok=True)
 
 
-# Disable the warning caused by verify=False
-urllib3.disable_warnings(
-    urllib3.exceptions.InsecureRequestWarning
-)
+PDF_FILES = [
+    "2024_bwacha_cdf_projects.pdf",
+    "2024_kabwe_central_cdf_projects.pdf",
+    "2025_proposed_kabwe_central_cdf_projects.pdf",
+    "2025_kabwe_council_obb.pdf",
+    "2025_bi_annual_financial_statement.pdf",
+]
 
 
-def download_pdf(url, output_path):
-    response = requests.get(
-        url,
-        timeout=60,
-        verify=False
-    )
+def extract_pdf_text(pdf_path):
+    """
+    Extract text from a PDF using PyMuPDF.
+    """
 
-    print("Status code:", response.status_code)
-    print("Content-Type:", response.headers.get("Content-Type"))
-    print("File size:", len(response.content), "bytes")
-    print("First 20 bytes:", response.content[:20])
+    document = fitz.open(pdf_path)
 
-    response.raise_for_status()
+    pages = []
 
-    # Make sure the server actually returned a PDF
-    content_type = response.headers.get("Content-Type", "")
+    for page_number, page in enumerate(document, start=1):
+        text = page.get_text("text")
 
-    if (
-        "application/pdf" not in content_type.lower()
-        and not response.content.startswith(b"%PDF-")
-    ):
-        raise ValueError(
-            "The URL did not return a PDF. "
-            "The server returned HTML or another file type."
+        pages.append(
+            f"\n--- PAGE {page_number} ---\n{text}"
         )
 
-    with open(output_path, "wb") as file:
-        file.write(response.content)
+    document.close()
 
-    print(f"PDF downloaded successfully: {output_path}")
-
-
-def extract_project_rows(pdf_path):
-    all_rows = []
-
-    with pdfplumber.open(pdf_path) as pdf:
-        print(f"Number of pages: {len(pdf.pages)}")
-
-        for page_number, page in enumerate(pdf.pages, start=1):
-            tables = page.extract_tables()
-
-            print(
-                f"Page {page_number}: "
-                f"{len(tables)} table(s) found"
-            )
-
-            for table in tables:
-                for row in table:
-                    if row:
-                        all_rows.append(row)
-
-    project_rows = []
-
-    for row in all_rows:
-        if (
-            row[0] is not None
-            and str(row[0]).strip().isdigit()
-        ):
-            project_rows.append(row)
-
-    return project_rows
+    return "\n".join(pages)
 
 
-def create_dataframe(project_rows):
-    columns = [
-        "project_number",
-        "project_name",
-        "project_description",
-        "ward",
-        "project_site",
-        "application_amount",
-        "engineers_estimate",
-        "approved_amount",
-        "contract_amount",
-        "status"
-    ]
+def extract_file(filename):
+    """
+    Extract text from one PDF and save it as a TXT file.
+    """
 
-    df = pd.DataFrame(
-        project_rows,
-        columns=columns
+    pdf_path = RAW_DIR / filename
+
+    if not pdf_path.exists():
+        print(f"File not found: {pdf_path}")
+        return
+
+    print(f"Extracting: {filename}")
+
+    text = extract_pdf_text(pdf_path)
+
+    output_filename = pdf_path.stem + ".txt"
+    output_path = EXTRACTED_DIR / output_filename
+
+    output_path.write_text(
+        text,
+        encoding="utf-8"
     )
 
-    return df
+    print(f"Saved: {output_path}")
+    print(f"Characters extracted: {len(text):,}")
+    print()
+
+
+def main():
+    print("Kabwe Municipal Council CDF PDF Extraction")
+    print("=" * 50)
+
+    for filename in PDF_FILES:
+        extract_file(filename)
+
+    print("Extraction process completed.")
 
 
 if __name__ == "__main__":
-    download_pdf(PDF_URL, OUTPUT_PATH)
-
-    rows = extract_project_rows(OUTPUT_PATH)
-
-    df = create_dataframe(rows)
-
-    print("\nProjects extracted:", len(df))
-    print("\nFirst five projects:")
-    print(df.head())
+    main()
