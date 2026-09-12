@@ -1,3 +1,8 @@
-source_id,source_name,source_type,url,description
-S001,Kabwe Municipal Council Website,Website,https://www.kabwecouncil.gov.zm/,Official Kabwe Municipal Council website
-S002,2024 Bwacha CDF Community Projects Submission,PDF,https://www.kabwecouncil.gov.zm/wp-content/uploads/2024/11/2024-Bwacha-community-projects-Recieved.pdf,2024 CDF community project submissions for Bwacha Constituency
+id,source_name,source_type,url,description
+S001,Kabwe Municipal Council Website,Website,https://www.kabwecouncil.gov.zm,Official Kabwe Municipal Council website and digital source directory.
+S002,2024 Bwacha CDF Community Projects Submission,PDF,https://www.kabwecouncil.gov.zm/wp-content/uploads/2024/11/2024-Bwacha-community-projects-Recieved.pdf,2024 CDF community project submissions for Bwacha Constituency.
+S003,2024 Kabwe Central CDF Community Projects Submission,PDF,https://www.kabwecouncil.gov.zm/wp-content/uploads/2024/11/2024-Community-Projects-Kabwe-Central-received.pdf,2024 CDF community project submissions for Kabwe Central Constituency.
+S004,2025 Kabwe Municipal Council OBB Budget,PDF,https://www.kabwecouncil.gov.zm/wp-content/uploads/2025/05/2025-KABWE-M-COUNCIL-OBB.pdf,2025 Output Based Budget containing CDF allocations and CDF output indicators.
+S005,Kabwe District Integrated Development Plan 2023-2028,PDF,https://www.kabwecouncil.gov.zm/wp-content/uploads/2024/09/Kabwe-Approved-IDP_Final-Version-1.pdf,Approved Kabwe District Integrated Development Plan for 2023-2028.
+S006,Proposed 2025 CDF Projects,PDF,https://www.kabwecouncil.gov.zm/wp-content/uploads/2025/08/Proposed-2025-CDF-projects.pdf,Proposed 2025 CDF projects for Kabwe Central Constituency.
+S007,2025 Kabwe Municipal Council BI-Annual Financial Statements,PDF,https://www.kabwecouncil.gov.zm/wp-content/uploads/2025/08/2025-BI-ANNUAL-FINANCIAL-STATEMENT-KABWE-M-COUNCIL-1-1.pdf,2025 BI-Annual Financial Statements containing CDF funding loan repayments interest expenditure and constituency-level CDF financial information.
