@@ -1,0 +1,130 @@
+project_id|council|project_name|sector|constituency|ward|approved_amount_zmw|status|funding_source|source_doc|scraped_at|has_amount_zmw|is_approved|sector_category|amount_band|has_ward|inferred_year
+KAB-0001|Kabwe Municipal Council|Construction of 1x3 CRB David Ramusho Secondary School|Education|Kabwe Central|David Ramusho.|1703868.67|Approved|CDF|CDF_PROJECTS_2025|2026-09-11T22:05:32.010388|True|True|Social|Large (1M-5M)|True|2025
+KAB-0002|Kabwe Municipal Council|Construction of 1x3 CRB at Kasanda Malombe Secondary School|Education|Kabwe Central|Chirwa|1703868.67|Approved|CDF|CDF_PROJECTS_2025|2026-09-11T22:05:32.010388|True|True|Social|Large (1M-5M)|True|2025
+KAB-0003|Kabwe Municipal Council|Procurement of 500 ordinary and 40 special Desks|Education|Kabwe Central|various wards|1100000.0|Approved|CDF|CDF_PROJECTS_2025|2026-09-11T22:05:32.010388|True|True|Social|Large (1M-5M)|False|2025
+KAB-0004|Kabwe Municipal Council|Construction of an Ablution block at C gate Community School|Education|Kabwe Central|kaputula|750000.0|Approved|CDF|CDF_PROJECTS_2025|2026-09-11T22:05:32.010388|True|True|Social|Medium (100K-1M)|True|2025
+KAB-0005|Kabwe Municipal Council|Construction of an Ablution Block at Mpima Prison Primary School|Education|Kabwe Central|mpima|750000.0|Approved|CDF|CDF_PROJECTS_2025|2026-09-11T22:05:32.010388|True|True|Social|Medium (100K-1M)|True|2025
+KAB-0006|Kabwe Municipal Council|Construction of an Ablution Block at Katondo BOCCS Primary School|Education|Kabwe Central|Katondo|750000.0|Approved|CDF|CDF_PROJECTS_2025|2026-09-11T22:05:32.010388|True|True|Social|Medium (100K-1M)|True|2025
+KAB-0007|Kabwe Municipal Council|Constuction of an Ablution Block at Kamushanga Market|Education|Kabwe Central|kalonga|940678.8|Approved|CDF|CDF_PROJECTS_2025|2026-09-11T22:05:32.010388|True|True|Social|Medium (100K-1M)|True|2025
+KAB-0008|Kabwe Municipal Council|01 installation of solar powerd water reticulated system with lockable water Kiosks in Waya Community|Water and Sanitation|Kabwe Central|waya|940678.8|Approved|CDF|CDF_PROJECTS_2025|2026-09-11T22:05:32.010388|True|True|Infrastructure|Medium (100K-1M)|True|2025
+KAB-0009|Kabwe Municipal Council|Construction of a Maternity Wing at Mpima Dairy Clinic|Health|Kabwe Central|mpima|2666954.72|Approved|CDF|CDF_PROJECTS_2025|2026-09-11T22:05:32.010388|True|True|Social|Large (1M-5M)|True|2025
+KAB-0010|Kabwe Municipal Council|installation of a solar powered water reticulated system at Njanji market|Water and Sanitation|Kabwe Central|njanji|251787.28|Approved|CDF|CDF_PROJECTS_2025|2026-09-11T22:05:32.010388|True|True|Infrastructure|Medium (100K-1M)|True|2025
+KAB-0011|Kabwe Municipal Council|Procurement of Medical Equipment for Magandanyama and Katondo clinic|Health|Kabwe Central|david ramushu and luansase|1100000.0|Approved|CDF|CDF_PROJECTS_2025|2026-09-11T22:05:32.010388|True|True|Social|Large (1M-5M)|True|2025
+KAB-0012|Kabwe Municipal Council|Additional fund roads|Roads and Drainages|Kabwe Central|various wards|464821.35|Approved|CDF|CDF_PROJECTS_2025|2026-09-11T22:05:32.010388|True|True|Infrastructure|Medium (100K-1M)|False|2025
+KAB-0013|Kabwe Municipal Council|installation of a solar powered water reticulated system at Kamushanga market|Water and Sanitation|Kabwe Central|kalonga|251787.28|Approved|CDF|CDF_PROJECTS_2025|2026-09-11T22:05:32.010388|True|True|Infrastructure|Medium (100K-1M)|True|2025
+KAB-0014|Kabwe Municipal Council|installation of a solar powered water reticulated system at C-gate Community school|Education|Kabwe Central|kaputula|251787.28|Approved|CDF|CDF_PROJECTS_2025|2026-09-11T22:05:32.010388|True|True|Social|Medium (100K-1M)|True|2025
+KAB-0015|Kabwe Municipal Council|procurement of tipper ruck|Roads and Drainages|Kabwe Central|Unknown|1700000.0|Approved|CDF|CDF_PROJECTS_2025|2026-09-11T22:05:32.010388|True|True|Infrastructure|Large (1M-5M)|False|2025
+KAB-0016|Kabwe Municipal Council|Sub Total|Unknown|Kabwe Central|Unknown|15326232.85|Approved|CDF|CDF_PROJECTS_2025|2026-09-11T22:05:32.010388|True|True|Other|Very Large (>=5M)|False|2025
+KAB-0017|Kabwe Municipal Council|Completion of Kabwe General Hospital Relative waiting shelter|Health|Kabwe Central|Luangwa||Approved|CDF|CDF_PROJECTS_2025|2026-09-11T22:05:32.010388|False|True|Social|Unknown|True|2025
+KAB-0018|Kabwe Municipal Council|Proposed Extension and rehabilitation of waya market shelter|Commerce|Kabwe Central|Waya||Approved|CDF|CDF_PROJECTS_2025|2026-09-11T22:05:32.010388|False|True|Economic|Unknown|True|2025
+KAB-0019|Kabwe Municipal Council|Proposed completion of Nakoli Market shelter|Commerce|Kabwe Central|Nakoli||Approved|CDF|CDF_PROJECTS_2025|2026-09-11T22:05:32.010388|False|True|Economic|Unknown|True|2025
+KAB-0020|Kabwe Municipal Council|Additional funds for njanji market structure|Commerce|Kabwe Central|Njanji||Approved|CDF|CDF_PROJECTS_2025|2026-09-11T22:05:32.010388|False|True|Economic|Unknown|True|2025
+KAB-0021|Kabwe Municipal Council|Additional funds for kasanda market structure|Commerce|Kabwe Central|Justin Kabwe||Approved|CDF|CDF_PROJECTS_2025|2026-09-11T22:05:32.010388|False|True|Economic|Unknown|True|2025
+KAB-0022|Kabwe Municipal Council|Completion of Double storey CRB at Family Future Community School|Education|Kabwe Central|Lukanga||Approved|CDF|CDF_PROJECTS_2025|2026-09-11T22:05:32.010388|False|True|Social|Unknown|True|2025
+KAB-0023|Kabwe Municipal Council|Completion of Chindwin wall fence|Education|Kabwe Central|Kaputula||Approved|CDF|CDF_PROJECTS_2025|2026-09-11T22:05:32.010388|False|True|Social|Unknown|True|2025
+KAB-0024|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0025|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0026|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0027|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0028|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0029|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0030|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0031|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0032|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0033|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0034|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0035|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0036|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0037|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0038|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0039|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0040|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0041|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0042|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0043|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0044|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0045|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0046|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0047|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0048|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0049|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0050|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0051|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0052|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0053|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0054|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0055|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0056|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0057|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0058|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0059|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0060|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0061|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0062|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0063|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0064|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0065|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0066|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0067|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0068|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0069|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0070|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0071|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0072|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0073|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0074|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0075|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0076|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0077|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0078|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0079|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0080|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0081|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0082|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0083|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0084|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0085|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0086|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0087|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0088|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0089|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0090|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0091|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0092|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0093|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0094|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0095|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0096|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0097|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0098|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0099|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0100|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0101|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0102|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0103|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0104|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0105|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0106|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0107|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0108|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0109|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0110|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0111|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0112|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0113|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0114|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0115|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0116|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0117|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0118|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0119|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0120|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0121|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0122|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0123|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0124|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0125|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0126|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0127|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0128|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
+KAB-0129|Kabwe Municipal Council||Education|Kabwe Central|||Completed|CDF|NEWSLETTER_2024|2026-09-11T22:05:32.010388|False|False|Social|Unknown|False|2024
