@@ -1,0 +1,37 @@
+{
+  "run_at": "2026-09-13T15:59:43",
+  "base_url": "https://www.kabwecouncil.gov.zm",
+  "homepage_pdfs": [
+    "https://www.kabwecouncil.gov.zm/wp-content/uploads/2025/09/CDF-Guidelines.pdf"
+  ],
+  "curated_sources": [
+    {
+      "doc_id": "IDP_MAIN",
+      "title": "Kabwe Approved IDP Final Version 1 (2023\u20132033)",
+      "category": "Integrated Development Plan",
+      "filename": "Kabwe-Approved-IDP_Final-Version-1.pdf",
+      "url": "https://www.kabwecouncil.gov.zm/wp-content/uploads/2024/09/Kabwe-Approved-IDP_Final-Version-1.pdf"
+    },
+    {
+      "doc_id": "IDP_CITIZEN",
+      "title": "Kabwe District Citizen IDP",
+      "category": "Integrated Development Plan",
+      "filename": "Kabwe-District-Citizen-IDP_Final-1.pdf",
+      "url": "https://www.kabwecouncil.gov.zm/wp-content/uploads/2024/09/Kabwe-District-Citizen-IDP_Final-1.pdf"
+    },
+    {
+      "doc_id": "CDF_PROJECTS_2025",
+      "title": "2025 Approved Community Projects \u2014 Kabwe Central",
+      "category": "Strategic Community Projects",
+      "filename": "2025-Approved-Community-Projects_Kabwe-Central.pdf",
+      "url": "https://www.kabwecouncil.gov.zm/wp-content/uploads/2025/06/2025-Approved-Community-Projects_Kabwe-Central.pdf"
+    },
+    {
+      "doc_id": "NEWSLETTER_2024",
+      "title": "Kabwe Municipal Council Newsletter 2024",
+      "category": "Council Newsletter",
+      "filename": "Kabwe-Municipal-Council-Newsletter-2024-1.pdf",
+      "url": "https://www.kabwecouncil.gov.zm/wp-content/uploads/2024/09/Kabwe-Municipal-Council-Newsletter-2024-1.pdf"
+    }
+  ]
+}
