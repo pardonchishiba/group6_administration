@@ -117,3 +117,31 @@ Example:
 ```text
 year|constituency|amount_kwacha
 2025|Kabwe Central|6205128
+```
+---
+## 6. Notebook Organization
+
+The project's notebooks are organized to mirror the four workstreams described in Section 2, plus a final consolidation step:
+
+### Topic notebooks (`/notebooks`)
+Each of the four workstreams has its own dedicated notebook, covering discovery, extraction, cleaning and export for that workstream's tables:
+
+| Notebook | Workstream | Tables produced |
+|---|---|---|
+| `notebooks/cdf_*.ipynb` | CDF allocations, disbursements, projects and indicators | 6 |
+| `notebooks/finance_*.ipynb` | Approved budgets, LGEF utilisation, local revenue | 3 |
+| `notebooks/idp_*.ipynb` | IDPs and strategic community projects | 11 |
+| `notebooks/administration_*.ipynb` | Council administration, services, WDCs, public reports | 5 |
+
+Each topic notebook is self-contained: it reads its own raw source documents, applies workstream-specific cleaning rules, and writes its processed tables to `data/processed/`.
+
+### Consolidated notebook (root folder)
+`kabwe_council_consolidated.ipynb`, in the project root, pulls together the outputs of all four topic notebooks. It:
+
+- loads the final tables selected by `scripts/Boas/prepare_submission.py`;
+- re-runs the validation checks described in Section 3.4 (non-empty files, unique headers, consistent row widths, required filename prefix);
+- confirms the package totals (25 tables, 854 records); and
+- serves as the single notebook to run end-to-end if a user wants to reproduce the full submission package without opening each topic notebook individually.
+
+This notebook is the one referenced as the **submission-quality-assurance notebook** in Section 5, and is the recommended entry point for anyone reviewing or reproducing the dataset.
+
